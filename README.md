@@ -1,5 +1,6 @@
 # textile-connect
 html repository for the tech challange project 23 for team textile-connect
+
 Technical Prototype Description for textile-connect.com
 Link to the Code repository: 
 Introduction: The purpose of this technical description is to provide a step-by-step guide on how to recreate the prototype website textile-connect.com. The prototype website is built using WordPress, with several plugins and tools utilized to achieve its functionality. The core plugins employed in the development of the website include WooCommerce, Elementor, and Contact Form 7. The hosting platform used is 1&1 IONOS. The website's theme is OceanWP, which provides a solid foundation for customization and design.
