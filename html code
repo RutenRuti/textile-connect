@@ -1,0 +1,1352 @@
+<!DOCTYPE html>
+<html lang="de-DE">
+
+<head>
+	
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+		<title>Textile Connect &#8211; Just another WordPress site</title>
+<meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//stats.wp.com' />
+<link rel='dns-prefetch' href='//connect.livechatinc.com' />
+<link rel='dns-prefetch' href='//www.google.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel="alternate" type="application/rss+xml" title="Textile Connect &raquo; Feed" href="https://textile-connect.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Textile Connect &raquo; Kommentar-Feed" href="https://textile-connect.com/comments/feed/" />
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/textile-connect.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.2.2"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){p.clearRect(0,0,i.width,i.height),p.fillText(e,0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(t,0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(p&&p.fillText)switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s("\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!s("\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!s("\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!s("\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='dashicons-css' href='https://textile-connect.com/wp-includes/css/dashicons.min.css?ver=6.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='admin-bar-css' href='https://textile-connect.com/wp-includes/css/admin-bar.min.css?ver=6.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='livechat-icons-style-css' href='https://textile-connect.com/wp-content/plugins/livechat-woocommerce/plugin_files/css/livechat-icons.css?ver=2.2.11' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-css' href='https://textile-connect.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.20.0' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-common-css' href='https://textile-connect.com/wp-content/plugins/elementor/assets/css/common.min.css?ver=3.14.0' type='text/css' media='all' />
+<link rel='stylesheet' id='e-theme-ui-light-css' href='https://textile-connect.com/wp-content/plugins/elementor/assets/css/theme-light.min.css?ver=3.14.0' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css' href='https://textile-connect.com/wp-includes/css/dist/block-library/style.min.css?ver=6.2.2' type='text/css' media='all' />
+<style id='wp-block-library-inline-css' type='text/css'>
+.has-text-align-justify{text-align:justify;}
+</style>
+<link rel='stylesheet' id='jetpack-videopress-video-block-view-css' href='https://textile-connect.com/wp-content/plugins/jetpack/jetpack_vendor/automattic/jetpack-videopress/build/block-editor/blocks/video/view.css?minify=false&#038;ver=34ae973733627b74a14e' type='text/css' media='all' />
+<link rel='stylesheet' id='mediaelement-css' href='https://textile-connect.com/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.17' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-mediaelement-css' href='https://textile-connect.com/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=6.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wc-blocks-vendors-style-css' href='https://textile-connect.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-vendors-style.css?ver=10.2.3' type='text/css' media='all' />
+<link rel='stylesheet' id='wc-blocks-style-css' href='https://textile-connect.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-style.css?ver=10.2.3' type='text/css' media='all' />
+<link rel='stylesheet' id='ht-contactform-block-style-css' href='https://textile-connect.com/wp-content/plugins/ht-contactform/blocks/src/assets/css/style-index.css?ver=1.1.6' type='text/css' media='all' />
+<link rel='stylesheet' id='classic-theme-styles-css' href='https://textile-connect.com/wp-includes/css/classic-themes.min.css?ver=6.2.2' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--neve-link-color: var(--nv-primary-accent);--wp--preset--color--neve-link-hover-color: var(--nv-secondary-accent);--wp--preset--color--nv-site-bg: var(--nv-site-bg);--wp--preset--color--nv-light-bg: var(--nv-light-bg);--wp--preset--color--nv-dark-bg: var(--nv-dark-bg);--wp--preset--color--neve-text-color: var(--nv-text-color);--wp--preset--color--nv-text-dark-bg: var(--nv-text-dark-bg);--wp--preset--color--nv-c-1: var(--nv-c-1);--wp--preset--color--nv-c-2: var(--nv-c-2);--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='contact-form-7-css' href='https://textile-connect.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.7.7' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-layout-css' href='https://textile-connect.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=7.8.0' type='text/css' media='all' />
+<style id='woocommerce-layout-inline-css' type='text/css'>
+
+	.infinite-scroll .woocommerce-pagination {
+		display: none;
+	}
+</style>
+<link rel='stylesheet' id='woocommerce-smallscreen-css' href='https://textile-connect.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=7.8.0' type='text/css' media='only screen and (max-width: 768px)' />
+<link rel='stylesheet' id='woocommerce-general-css' href='https://textile-connect.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=7.8.0' type='text/css' media='all' />
+<style id='woocommerce-inline-inline-css' type='text/css'>
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel='stylesheet' id='elementor-frontend-css' href='https://textile-connect.com/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.14.0' type='text/css' media='all' />
+<link rel='stylesheet' id='swiper-css' href='https://textile-connect.com/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-25-css' href='https://textile-connect.com/wp-content/uploads/elementor/css/post-25.css?ver=1687900098' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-pro-css' href='https://textile-connect.com/wp-content/plugins/elementor-pro/assets/css/frontend-lite.min.css?ver=3.13.2' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-50-css' href='https://textile-connect.com/wp-content/uploads/elementor/css/post-50.css?ver=1688639382' type='text/css' media='all' />
+<link rel='stylesheet' id='livechat-contact-button-style-css' href='https://textile-connect.com/wp-content/plugins/livechat-woocommerce/plugin_files/css/livechat-contact-button.css?ver=2.2.11' type='text/css' media='all' />
+<link rel='stylesheet' id='livechat-quality-badge-style-css' href='https://textile-connect.com/wp-content/plugins/livechat-woocommerce/plugin_files/css/livechat-quality-badge.css?ver=2.2.11' type='text/css' media='all' />
+<link rel='stylesheet' id='neve-woocommerce-css' href='https://textile-connect.com/wp-content/themes/neve/assets/css/woocommerce.min.css?ver=3.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='neve-style-css' href='https://textile-connect.com/wp-content/themes/neve/style-main-new.min.css?ver=3.6.1' type='text/css' media='all' />
+<style id='neve-style-inline-css' type='text/css'>
+h1 {font-family: var(--h1fontfamily);}h2 {font-family: var(--h2fontfamily);}h3 {font-family: var(--h3fontfamily);}h4 {font-family: var(--h4fontfamily);}h5 {font-family: var(--h5fontfamily);}h6 {font-family: var(--h6fontfamily);}
+.nv-meta-list li.meta:not(:last-child):after { content:"/" }.nv-meta-list .no-mobile{
+			display:none;
+		}.nv-meta-list li.last::after{
+			content: ""!important;
+		}@media (min-width: 769px) {
+			.nv-meta-list .no-mobile {
+				display: inline-block;
+			}
+			.nv-meta-list li.last:not(:last-child)::after {
+		 		content: "/" !important;
+			}
+		}
+
+</style>
+<link rel='stylesheet' id='wpr-text-animations-css-css' href='https://textile-connect.com/wp-content/plugins/royal-elementor-addons/assets/css/lib/animations/text-animations.min.css?ver=1.3.69' type='text/css' media='all' />
+<link rel='stylesheet' id='wpr-addons-css-css' href='https://textile-connect.com/wp-content/plugins/royal-elementor-addons/assets/css/frontend.min.css?ver=1.3.69' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-5-all-css' href='https://textile-connect.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=1.3.69' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css' href='https://textile-connect.com/wp-content/plugins/jetpack/css/jetpack.css?ver=12.2' type='text/css' media='all' />
+<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin><script type='text/javascript' src='https://textile-connect.com/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2' id='wp-polyfill-inert-js'></script>
+<script type='text/javascript' src='https://textile-connect.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.11' id='regenerator-runtime-js'></script>
+<script type='text/javascript' src='https://textile-connect.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0' id='wp-polyfill-js'></script>
+<script type='text/javascript' src='https://textile-connect.com/wp-includes/js/dist/hooks.min.js?ver=4169d3cf8e8d95a3d6d5' id='wp-hooks-js'></script>
+<script type='text/javascript' src='https://stats.wp.com/w.js?ver=202328' id='woo-tracks-js'></script>
+<script type='text/javascript' data-cfasync="false" src='https://textile-connect.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.4' id='jquery-core-js'></script>
+<script type='text/javascript' data-cfasync="false" src='https://textile-connect.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.0' id='jquery-migrate-js'></script>
+<script type='text/javascript' src='https://connect.livechatinc.com/api/v1/script/e1d4197d-fe1b-491f-83f6-1d388de72339/contact-button.js?ver=2.2.11' id='livechat-contact-button-script-js'></script>
+<script type='text/javascript' src='https://connect.livechatinc.com/api/v1/script/e1d4197d-fe1b-491f-83f6-1d388de72339/quality-badge.js?ver=2.2.11' id='livechat-quality-badge-script-js'></script>
+<script type='text/javascript' id='elementor-pro-app-js-before'>
+var elementorAppProConfig = {"baseUrl":"https:\/\/textile-connect.com\/wp-content\/plugins\/elementor-pro\/","site-editor":{"urls":{"legacy_view":"https:\/\/textile-connect.com\/wp-admin\/edit.php?post_type=elementor_library&tabs_group=theme"},"utms":{"utm_source":"theme-builder","utm_medium":"wp-dash"}},"kit-library":[],"onboarding":[],"import-export":[]};
+</script>
+<link rel="https://api.w.org/" href="https://textile-connect.com/wp-json/" /><link rel="alternate" type="application/json" href="https://textile-connect.com/wp-json/wp/v2/pages/50" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://textile-connect.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://textile-connect.com/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 6.2.2" />
+<meta name="generator" content="WooCommerce 7.8.0" />
+<link rel="canonical" href="https://textile-connect.com/" />
+<link rel='shortlink' href='https://textile-connect.com/' />
+<link rel="alternate" type="application/json+oembed" href="https://textile-connect.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftextile-connect.com%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://textile-connect.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftextile-connect.com%2F&#038;format=xml" />
+	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	<meta name="generator" content="Elementor 3.14.0; features: e_dom_optimization, e_optimized_assets_loading, e_optimized_css_loading, a11y_improvements, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-swap">
+<style type="text/css" media="print">#wpadminbar { display:none; }</style>
+	<style type="text/css" media="screen">
+	html { margin-top: 32px !important; }
+	@media screen and ( max-width: 782px ) {
+		html { margin-top: 46px !important; }
+	}
+</style>
+	
+<style data-ampdevmode type='text/css'>
+#wpadminbar .quicklinks li#wp-admin-bar-stats {
+	height: 32px;
+}
+#wpadminbar .quicklinks li#wp-admin-bar-stats a {
+	height: 32px;
+	padding: 0;
+}
+#wpadminbar .quicklinks li#wp-admin-bar-stats a div {
+	height: 32px;
+	width: 95px;
+	overflow: hidden;
+	margin: 0 10px;
+}
+#wpadminbar .quicklinks li#wp-admin-bar-stats a:hover div {
+	width: auto;
+	margin: 0 8px 0 10px;
+}
+#wpadminbar .quicklinks li#wp-admin-bar-stats a img {
+	height: 24px;
+	margin: 4px 0;
+	max-width: none;
+	border: none;
+}
+</style>
+	<script data-ampdevmode type="text/javascript">
+/* <![CDATA[ */
+	var wpNotesIsJetpackClient = true;
+	var wpNotesIsJetpackClientV2 = true;
+		/* ]]> */
+	window.addEventListener('message', function ( event ) {
+		// Confirm that the message is from the right origin.
+		if ('https://widgets.wp.com' !== event.origin) {
+			return;
+		}
+		// Check whether 3rd Party Cookies are blocked
+		var has3PCBlocked = 'WPCOM:3PC:blocked' === event.data;
+
+		var tagerElement = document.getElementById('wp-admin-bar-notes');
+
+		if ( has3PCBlocked && tagerElement ) {
+			// Hide the notification button/icon
+			tagerElement.style.display = 'none';
+		}
+	}, false );
+</script>
+		<style id="wpr_lightbox_styles">
+				.lg-backdrop {
+					background-color: rgba(0,0,0,0.6) !important;
+				}
+				.lg-toolbar,
+				.lg-dropdown {
+					background-color: rgba(0,0,0,0.8) !important;
+				}
+				.lg-dropdown:after {
+					border-bottom-color: rgba(0,0,0,0.8) !important;
+				}
+				.lg-sub-html {
+					background-color: rgba(0,0,0,0.8) !important;
+				}
+				.lg-thumb-outer,
+				.lg-progress-bar {
+					background-color: #444444 !important;
+				}
+				.lg-progress {
+					background-color: #a90707 !important;
+				}
+				.lg-icon {
+					color: #efefef !important;
+					font-size: 20px !important;
+				}
+				.lg-icon.lg-toogle-thumb {
+					font-size: 24px !important;
+				}
+				.lg-icon:hover,
+				.lg-dropdown-text:hover {
+					color: #ffffff !important;
+				}
+				.lg-sub-html,
+				.lg-dropdown-text {
+					color: #efefef !important;
+					font-size: 14px !important;
+				}
+				#lg-counter {
+					color: #efefef !important;
+					font-size: 14px !important;
+				}
+				.lg-prev,
+				.lg-next {
+					font-size: 35px !important;
+				}
+
+				/* Defaults */
+				.lg-icon {
+				background-color: transparent !important;
+				}
+
+				#lg-counter {
+				opacity: 0.9;
+				}
+
+				.lg-thumb-outer {
+				padding: 0 10px;
+				}
+
+				.lg-thumb-item {
+				border-radius: 0 !important;
+				border: none !important;
+				opacity: 0.5;
+				}
+
+				.lg-thumb-item.active {
+					opacity: 1;
+				}
+	         </style>
+	</head>
+
+<body  class="home page-template-default page page-id-50 logged-in admin-bar no-customize-support theme-neve woocommerce-no-js  nv-blog-grid nv-sidebar-full-width menu_sidebar_slide_left elementor-default elementor-kit-25 elementor-page elementor-page-50" id="neve_body"  >
+		<style>#wp-admin-bar-ionos-performance{display:list-item !important} #wp-admin-bar-ionos-performance .ab-icon{margin:0 !important} #wp-admin-bar-ionos-performance .ab-icon:before{top:2px;margin:0;} #wp-admin-bar-ionos-performance .ab-label{margin:0 5px}</style>
+		<span class="ab-aria-live-area screen-reader-text" aria-live="polite"></span>
+			<script type="text/javascript">
+		(function() {
+			var request, b = document.body, c = 'className', cs = 'customize-support', rcs = new RegExp('(^|\\s+)(no-)?'+cs+'(\\s+|$)');
+
+				request = true;
+	
+			b[c] = b[c].replace( rcs, ' ' );
+			// The customizer requires postMessage and CORS (if the site is cross domain).
+			b[c] += ( window.postMessage && request ? ' ' : ' no-' ) + cs;
+		}());
+	</script>
+			<div id="wpadminbar" class="nojq nojs">
+						<div class="quicklinks" id="wp-toolbar" role="navigation" aria-label="Werkzeugleiste">
+				<ul id='wp-admin-bar-root-default' class="ab-top-menu"><li id='wp-admin-bar-wp-logo' class="menupop"><a class='ab-item' aria-haspopup="true" href='https://textile-connect.com/wp-admin/about.php'><span class="ab-icon" aria-hidden="true"></span><span class="screen-reader-text">Über WordPress</span></a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-wp-logo-default' class="ab-submenu"><li id='wp-admin-bar-about'><a class='ab-item' href='https://textile-connect.com/wp-admin/about.php'>Über WordPress</a></li></ul><ul id='wp-admin-bar-wp-logo-external' class="ab-sub-secondary ab-submenu"><li id='wp-admin-bar-wporg'><a class='ab-item' href='https://de.wordpress.org/'>WordPress.org</a></li><li id='wp-admin-bar-documentation'><a class='ab-item' href='https://wordpress.org/documentation/'>Dokumentation</a></li><li id='wp-admin-bar-support-forums'><a class='ab-item' href='https://de.wordpress.org/support/forums/'>Support</a></li><li id='wp-admin-bar-feedback'><a class='ab-item' href='https://wordpress.org/support/forum/requests-and-feedback'>Feedback</a></li></ul></div></li><li id='wp-admin-bar-site-name' class="menupop"><a class='ab-item' aria-haspopup="true" href='https://textile-connect.com/wp-admin/'>Textile Connect</a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-site-name-default' class="ab-submenu"><li id='wp-admin-bar-dashboard'><a class='ab-item' href='https://textile-connect.com/wp-admin/'>Dashboard</a></li><li id='wp-admin-bar-aam'><a class='ab-item' href='https://textile-connect.com/wp-admin/admin.php?page=aam'>Manager Access</a></li></ul><ul id='wp-admin-bar-appearance' class="ab-submenu"><li id='wp-admin-bar-themes'><a class='ab-item' href='https://textile-connect.com/wp-admin/themes.php'>Themes</a></li><li id='wp-admin-bar-widgets'><a class='ab-item' href='https://textile-connect.com/wp-admin/widgets.php'>Widgets</a></li><li id='wp-admin-bar-menus'><a class='ab-item' href='https://textile-connect.com/wp-admin/nav-menus.php'>Menüs</a></li><li id='wp-admin-bar-background' class="hide-if-customize"><a class='ab-item' href='https://textile-connect.com/wp-admin/themes.php?page=custom-background'>Hintergrund</a></li></ul></div></li><li id='wp-admin-bar-customize' class="hide-if-no-customize"><a class='ab-item' href='https://textile-connect.com/wp-admin/customize.php?url=https%3A%2F%2Ftextile-connect.com%2F'>Customizer</a></li><li id='wp-admin-bar-updates'><a class='ab-item' href='https://textile-connect.com/wp-admin/update-core.php'><span class="ab-icon" aria-hidden="true"></span><span class="ab-label" aria-hidden="true">14</span><span class="screen-reader-text updates-available-text">14 Updates verfügbar</span></a></li><li id='wp-admin-bar-comments'><a class='ab-item' href='https://textile-connect.com/wp-admin/edit-comments.php'><span class="ab-icon" aria-hidden="true"></span><span class="ab-label awaiting-mod pending-count count-0" aria-hidden="true">0</span><span class="screen-reader-text comments-in-moderation-text">0 Kommentare in Moderation</span></a></li><li id='wp-admin-bar-new-content' class="menupop"><a class='ab-item' aria-haspopup="true" href='https://textile-connect.com/wp-admin/post-new.php'><span class="ab-icon" aria-hidden="true"></span><span class="ab-label">Neu</span></a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-new-content-default' class="ab-submenu"><li id='wp-admin-bar-new-post'><a class='ab-item' href='https://textile-connect.com/wp-admin/post-new.php'>Beitrag</a></li><li id='wp-admin-bar-new-media'><a class='ab-item' href='https://textile-connect.com/wp-admin/media-new.php'>Medien</a></li><li id='wp-admin-bar-new-page'><a class='ab-item' href='https://textile-connect.com/wp-admin/post-new.php?post_type=page'>Seite</a></li><li id='wp-admin-bar-new-e-landing-page'><a class='ab-item' href='https://textile-connect.com/wp-admin/edit.php?action=elementor_new_post&#038;post_type=e-landing-page&#038;template_type=landing-page&#038;_wpnonce=04ab722650#library'>Landingpage</a></li><li id='wp-admin-bar-new-elementor_library'><a class='ab-item' href='https://textile-connect.com/wp-admin/post-new.php?post_type=elementor_library'>Template</a></li><li id='wp-admin-bar-new-product'><a class='ab-item' href='https://textile-connect.com/wp-admin/post-new.php?post_type=product'>Produkt</a></li><li id='wp-admin-bar-new-shop_order'><a class='ab-item' href='https://textile-connect.com/wp-admin/post-new.php?post_type=shop_order'>Bestellung</a></li><li id='wp-admin-bar-new-shop_coupon'><a class='ab-item' href='https://textile-connect.com/wp-admin/post-new.php?post_type=shop_coupon'>Gutschein</a></li><li id='wp-admin-bar-new-user'><a class='ab-item' href='https://textile-connect.com/wp-admin/user-new.php'>Benutzer</a></li></ul></div></li><li id='wp-admin-bar-edit'><a class='ab-item' href='https://textile-connect.com/wp-admin/post.php?post=50&#038;action=edit'>Seite bearbeiten</a></li><li id='wp-admin-bar-neve_preview_hook'><a class='ab-item' href='/?neve_preview_hook=show'>Show Hooks <span class="dashicons dashicons-lock" style="font-family: dashicons"></span></a></li><li id='wp-admin-bar-stats'><a class='ab-item' href='https://textile-connect.com/wp-admin/admin.php?page=stats'><div><img src='https://textile-connect.com/wp-admin/admin.php?page=stats&amp;noheader&amp;proxy&amp;chart=admin-bar-hours-scale' srcset='https://textile-connect.com/wp-admin/admin.php?page=stats&amp;noheader&amp;proxy&amp;chart=admin-bar-hours-scale 1x, https://textile-connect.com/wp-admin/admin.php?page=stats&amp;noheader&amp;proxy&amp;chart=admin-bar-hours-scale-2x 2x' width='112' height='24' alt='Statistik' title='Aufrufe der letzten 48 Stunden. Klicke hier für weitere Jetpack-Statistiken.'></div></a></li></ul><ul id='wp-admin-bar-top-secondary' class="ab-top-secondary ab-top-menu"><li id='wp-admin-bar-search' class="admin-bar-search"><div class="ab-item ab-empty-item" tabindex="-1"><form action="https://textile-connect.com/" method="get" id="adminbarsearch"><input class="adminbar-input" name="s" id="adminbar-search" type="text" value="" maxlength="150" /><label for="adminbar-search" class="screen-reader-text">Suchen</label><input type="submit" class="adminbar-button" value="Suchen" /></form></div></li><li id='wp-admin-bar-my-account' class="menupop with-avatar"><a class='ab-item' aria-haspopup="true" href='https://textile-connect.com/wp-admin/profile.php'>Willkommen, <span class="display-name">David Köthnig</span><img alt='' src='https://secure.gravatar.com/avatar/303a3d98849c63661e993e8641f8063d?s=26&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/303a3d98849c63661e993e8641f8063d?s=52&#038;d=mm&#038;r=g 2x' class='avatar avatar-26 photo' height='26' width='26' loading='lazy' decoding='async'/></a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-user-actions' class="ab-submenu"><li id='wp-admin-bar-user-info'><a class='ab-item' tabindex="-1" href='https://textile-connect.com/wp-admin/profile.php'><img alt='' src='https://secure.gravatar.com/avatar/303a3d98849c63661e993e8641f8063d?s=64&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/303a3d98849c63661e993e8641f8063d?s=128&#038;d=mm&#038;r=g 2x' class='avatar avatar-64 photo' height='64' width='64' loading='lazy' decoding='async'/><span class='display-name'>David Köthnig</span><span class='username'>David</span></a></li><li id='wp-admin-bar-edit-profile'><a class='ab-item' href='https://textile-connect.com/wp-admin/profile.php'>Profil bearbeiten</a></li><li id='wp-admin-bar-logout'><a class='ab-item' href='https://textile-connect.com/wp-login.php?action=logout&#038;_wpnonce=b714d35c30'>Abmelden</a></li></ul></div></li><li id='wp-admin-bar-ionos-performance'><a class='ab-item' href='/?_ionos-performance=flush&#038;_wpnonce=34b69354ea' title='Flush the ionos-performance cache'><span class="ab-icon dashicons dashicons-trash" aria-hidden="true"></span><span class="ab-label">Website-Cache leeren</span></a></li><li id='wp-admin-bar-notes' class="menupop"><div class="ab-item ab-empty-item"><span id="wpnt-notes-unread-count" class="wpnt-loading wpn-read">
+					<span class="noticon noticon-notification"></span>
+					</span></div><div id="wpnt-notes-panel2" class="intrinsic-ignore" style="display:none" lang="de" dir="ltr"><div class="wpnt-notes-panel-header"><span class="wpnt-notes-header">Benachrichtigungen</span><span class="wpnt-notes-panel-link"></span></div></div><span style="display:none;"><iframe class="jetpack-notes-cookie-check" src="https://widgets.wp.com/3rd-party-cookie-check/index.html"></iframe></span></li></ul>			</div>
+						<a class="screen-reader-shortcut" href="https://textile-connect.com/wp-login.php?action=logout&#038;_wpnonce=b714d35c30">Abmelden</a>
+					</div>
+
+		<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-dark-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0.49803921568627" /><feFuncG type="table" tableValues="0 0.49803921568627" /><feFuncB type="table" tableValues="0 0.49803921568627" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-red"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 0.27843137254902" /><feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-midnight"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0" /><feFuncG type="table" tableValues="0 0.64705882352941" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-magenta-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.78039215686275 1" /><feFuncG type="table" tableValues="0 0.94901960784314" /><feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-green"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.44705882352941 0.4" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-orange"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.098039215686275 1" /><feFuncG type="table" tableValues="0 0.66274509803922" /><feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><div class="wrapper">
+	
+	<header class="header"  >
+		<a class="neve-skip-link show-on-focus" href="#content" >
+			Zum Inhalt springen		</a>
+		<div id="header-grid"  class="hfg_header site-header">
+	
+<nav class="header--row header-main hide-on-mobile hide-on-tablet layout-full-contained nv-navbar header--row"
+	data-row-id="main" data-show-on="desktop">
+
+	<div
+		class="header--row-inner header-main-inner">
+		<div class="container">
+			<div
+				class="row row--wrapper"
+				data-section="hfg_header_layout_main" >
+				<div class="hfg-slot left"><div class="builder-item desktop-left"><div class="item--inner builder-item--logo"
+		data-section="title_tagline"
+		data-item-id="logo">
+	
+<div class="site-logo">
+	<a class="brand" href="https://textile-connect.com/" title="← Textile Connect"
+			aria-label="Textile Connect" rel="home"><img width="200" height="94" src="https://textile-connect.com/wp-content/uploads/2023/06/cropped-Logo-Full.jpg" class="neve-site-logo skip-lazy" alt="" decoding="async" loading="lazy" data-variant="logo" /></a></div>
+	</div>
+
+</div></div><div class="hfg-slot right"><div class="builder-item desktop-left hfg-is-group"><div class="item--inner builder-item--header_search_responsive"
+		data-section="header_search_responsive"
+		data-item-id="header_search_responsive">
+	<div class="nv-search-icon-component" >
+	<div  class="menu-item-nav-search minimal">
+		<a aria-label="Suchfeld" href="#" class="nv-icon nv-search" >
+				<svg width="15" height="15" viewBox="0 0 1792 1792" xmlns="http://www.w3.org/2000/svg"><path d="M1216 832q0-185-131.5-316.5t-316.5-131.5-316.5 131.5-131.5 316.5 131.5 316.5 316.5 131.5 316.5-131.5 131.5-316.5zm512 832q0 52-38 90t-90 38q-54 0-90-38l-343-342q-179 124-399 124-143 0-273.5-55.5t-225-150-150-225-55.5-273.5 55.5-273.5 150-225 225-150 273.5-55.5 273.5 55.5 225 150 150 225 55.5 273.5q0 220-124 399l343 343q37 37 37 90z" /></svg>
+			</a>		<div class="nv-nav-search" aria-label="search">
+			<div class="form-wrap ">
+				
+<form role="search"
+	method="get"
+	class="search-form"
+	action="https://textile-connect.com/">
+	<label>
+		<span class="screen-reader-text">Suchen nach&nbsp;…</span>
+	</label>
+	<input type="search"
+		class="search-field"
+		aria-label="Suchfeld"
+		placeholder="Suchen nach&nbsp;…"
+		value=""
+		name="s"/>
+	<button type="submit"
+			class="search-submit nv-submit"
+			aria-label="Suchfeld">
+					<span class="nv-search-icon-wrap">
+				<span class="nv-icon nv-search" >
+				<svg width="15" height="15" viewBox="0 0 1792 1792" xmlns="http://www.w3.org/2000/svg"><path d="M1216 832q0-185-131.5-316.5t-316.5-131.5-316.5 131.5-131.5 316.5 131.5 316.5 316.5 131.5 316.5-131.5 131.5-316.5zm512 832q0 52-38 90t-90 38q-54 0-90-38l-343-342q-179 124-399 124-143 0-273.5-55.5t-225-150-150-225-55.5-273.5 55.5-273.5 150-225 225-150 273.5-55.5 273.5 55.5 225 150 150 225 55.5 273.5q0 220-124 399l343 343q37 37 37 90z" /></svg>
+			</span>			</span>
+			</button>
+	</form>
+			</div>
+					</div>
+	</div>
+</div>
+	</div>
+
+<div class="item--inner builder-item--nav-icon"
+		data-section="header_menu_icon"
+		data-item-id="nav-icon">
+	<div class="menu-mobile-toggle item-button navbar-toggle-wrapper">
+	<button type="button" class=" navbar-toggle"
+			value="Navigations-Menü"
+					aria-label="Navigations-Menü "
+			aria-expanded="false" onclick="if('undefined' !== typeof toggleAriaClick ) { toggleAriaClick() }">
+					<span class="bars">
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			</span>
+					<span class="screen-reader-text">Navigations-Menü</span>
+	</button>
+</div> <!--.navbar-toggle-wrapper-->
+
+
+	</div>
+
+</div></div>							</div>
+		</div>
+	</div>
+</nav>
+
+
+<nav class="header--row header-main hide-on-desktop layout-full-contained nv-navbar header--row"
+	data-row-id="main" data-show-on="mobile">
+
+	<div
+		class="header--row-inner header-main-inner">
+		<div class="container">
+			<div
+				class="row row--wrapper"
+				data-section="hfg_header_layout_main" >
+				<div class="hfg-slot left"><div class="builder-item tablet-left mobile-left"><div class="item--inner builder-item--logo"
+		data-section="title_tagline"
+		data-item-id="logo">
+	
+<div class="site-logo">
+	<a class="brand" href="https://textile-connect.com/" title="← Textile Connect"
+			aria-label="Textile Connect" rel="home"><img width="200" height="94" src="https://textile-connect.com/wp-content/uploads/2023/06/cropped-Logo-Full.jpg" class="neve-site-logo skip-lazy" alt="" decoding="async" loading="lazy" data-variant="logo" /></a></div>
+	</div>
+
+</div></div><div class="hfg-slot right"><div class="builder-item tablet-left mobile-left hfg-is-group"><div class="item--inner builder-item--header_search_responsive"
+		data-section="header_search_responsive"
+		data-item-id="header_search_responsive">
+	<div class="nv-search-icon-component" >
+	<div  class="menu-item-nav-search minimal">
+		<a aria-label="Suchfeld" href="#" class="nv-icon nv-search" >
+				<svg width="15" height="15" viewBox="0 0 1792 1792" xmlns="http://www.w3.org/2000/svg"><path d="M1216 832q0-185-131.5-316.5t-316.5-131.5-316.5 131.5-131.5 316.5 131.5 316.5 316.5 131.5 316.5-131.5 131.5-316.5zm512 832q0 52-38 90t-90 38q-54 0-90-38l-343-342q-179 124-399 124-143 0-273.5-55.5t-225-150-150-225-55.5-273.5 55.5-273.5 150-225 225-150 273.5-55.5 273.5 55.5 225 150 150 225 55.5 273.5q0 220-124 399l343 343q37 37 37 90z" /></svg>
+			</a>		<div class="nv-nav-search" aria-label="search">
+			<div class="form-wrap ">
+				
+<form role="search"
+	method="get"
+	class="search-form"
+	action="https://textile-connect.com/">
+	<label>
+		<span class="screen-reader-text">Suchen nach&nbsp;…</span>
+	</label>
+	<input type="search"
+		class="search-field"
+		aria-label="Suchfeld"
+		placeholder="Suchen nach&nbsp;…"
+		value=""
+		name="s"/>
+	<button type="submit"
+			class="search-submit nv-submit"
+			aria-label="Suchfeld">
+					<span class="nv-search-icon-wrap">
+				<span class="nv-icon nv-search" >
+				<svg width="15" height="15" viewBox="0 0 1792 1792" xmlns="http://www.w3.org/2000/svg"><path d="M1216 832q0-185-131.5-316.5t-316.5-131.5-316.5 131.5-131.5 316.5 131.5 316.5 316.5 131.5 316.5-131.5 131.5-316.5zm512 832q0 52-38 90t-90 38q-54 0-90-38l-343-342q-179 124-399 124-143 0-273.5-55.5t-225-150-150-225-55.5-273.5 55.5-273.5 150-225 225-150 273.5-55.5 273.5 55.5 225 150 150 225 55.5 273.5q0 220-124 399l343 343q37 37 37 90z" /></svg>
+			</span>			</span>
+			</button>
+	</form>
+			</div>
+					</div>
+	</div>
+</div>
+	</div>
+
+<div class="item--inner builder-item--nav-icon"
+		data-section="header_menu_icon"
+		data-item-id="nav-icon">
+	<div class="menu-mobile-toggle item-button navbar-toggle-wrapper">
+	<button type="button" class=" navbar-toggle"
+			value="Navigations-Menü"
+					aria-label="Navigations-Menü "
+			aria-expanded="false" onclick="if('undefined' !== typeof toggleAriaClick ) { toggleAriaClick() }">
+					<span class="bars">
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			</span>
+					<span class="screen-reader-text">Navigations-Menü</span>
+	</button>
+</div> <!--.navbar-toggle-wrapper-->
+
+
+	</div>
+
+</div></div>							</div>
+		</div>
+	</div>
+</nav>
+
+<div
+		id="header-menu-sidebar" class="header-menu-sidebar tcb menu-sidebar-panel slide_left hfg-pe"
+		data-row-id="sidebar">
+	<div id="header-menu-sidebar-bg" class="header-menu-sidebar-bg">
+				<div class="close-sidebar-panel navbar-toggle-wrapper">
+			<button type="button" class="hamburger is-active  navbar-toggle active" 					value="Navigations-Menü"
+					aria-label="Navigations-Menü "
+					aria-expanded="false" onclick="if('undefined' !== typeof toggleAriaClick ) { toggleAriaClick() }">
+								<span class="bars">
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					</span>
+								<span class="screen-reader-text">
+			Navigations-Menü					</span>
+			</button>
+		</div>
+					<div id="header-menu-sidebar-inner" class="header-menu-sidebar-inner tcb ">
+						<div class="builder-item has-nav"><div class="item--inner builder-item--primary-menu has_menu"
+		data-section="header_menu_primary"
+		data-item-id="primary-menu">
+	<div class="nv-nav-wrap">
+	<div role="navigation" class="nav-menu-primary"
+			aria-label="Hauptmenü">
+
+		<ul id="nv-primary-navigation-sidebar" class="primary-menu-ul nav-ul menu-mobile"><li id="menu-item-203" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-203"><div class="wrap"><a href="https://textile-connect.com/requests/">Requests</a></div></li>
+<li id="menu-item-202" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-202"><div class="wrap"><a href="https://textile-connect.com/contact-us/">Contact Us</a></div></li>
+<li id="menu-item-204" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-204"><div class="wrap"><a href="https://textile-connect.com/faq/">FAQ</a></div></li>
+<li id="menu-item-445" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-445"><div class="wrap"><a href="https://textile-connect.com/my-account/">My account</a></div></li>
+</ul>	</div>
+</div>
+
+	</div>
+
+</div>					</div>
+	</div>
+</div>
+<div class="header-menu-sidebar-overlay hfg-ov hfg-pe" onclick="if('undefined' !== typeof toggleAriaClick ) { toggleAriaClick() }"></div>
+</div>
+	</header>
+
+	<style>.is-menu-sidebar .header-menu-sidebar { visibility: visible; }.is-menu-sidebar.menu_sidebar_slide_left .header-menu-sidebar { transform: translate3d(0, 0, 0); left: 0; }.is-menu-sidebar.menu_sidebar_slide_right .header-menu-sidebar { transform: translate3d(0, 0, 0); right: 0; }.is-menu-sidebar.menu_sidebar_pull_right .header-menu-sidebar, .is-menu-sidebar.menu_sidebar_pull_left .header-menu-sidebar { transform: translateX(0); }.is-menu-sidebar.menu_sidebar_dropdown .header-menu-sidebar { height: auto; }.is-menu-sidebar.menu_sidebar_dropdown .header-menu-sidebar-inner { max-height: 400px; padding: 20px 0; }.is-menu-sidebar.menu_sidebar_full_canvas .header-menu-sidebar { opacity: 1; }.header-menu-sidebar .menu-item-nav-search { pointer-events: none; }.header-menu-sidebar .menu-item-nav-search .is-menu-sidebar & { pointer-events: unset; }.nav-ul li:focus-within .wrap.active + .sub-menu { opacity: 1; visibility: visible; }.nav-ul li.neve-mega-menu:focus-within .wrap.active + .sub-menu { display: grid; }.nav-ul li > .wrap { display: flex; align-items: center; position: relative; padding: 0 4px; }.nav-ul:not(.menu-mobile):not(.neve-mega-menu) > li > .wrap > a { padding-top: 1px }</style>
+
+	
+	<main id="content" class="neve-main">
+
+<div class="container-fluid single-page-container">
+	<div class="row">
+				<div class="nv-single-page-wrap col">
+			<div class="nv-content-wrap entry-content">		<div data-elementor-type="wp-page" data-elementor-id="50" class="elementor elementor-50">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-03f1fb2 elementor-section-full_width elementor-section-height-min-height elementor-section-height-default elementor-section-items-middle wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no" data-id="03f1fb2" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-f8620db" data-id="f8620db" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-30acd18 elementor-widget elementor-widget-heading" data-id="30acd18" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.14.0 - 18-06-2023 */
+.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><h1 class="elementor-heading-title elementor-size-default">The Solution for used Textiles</h1>		</div>
+				</div>
+				<div class="elementor-element elementor-element-7ce99cc elementor-align-center elementor-widget elementor-widget-button" data-id="7ce99cc" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a class="elementor-button elementor-button-link elementor-size-md" href="https://textile-connect.com/contact-us/">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Contact Us</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-28d3552 elementor-section-boxed elementor-section-height-default elementor-section-height-default wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no" data-id="28d3552" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-6669bc5" data-id="6669bc5" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-71d4c33 elementor-widget elementor-widget-spacer" data-id="71d4c33" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.14.0 - 18-06-2023 */
+.elementor-column .elementor-spacer-inner{height:var(--spacer-size)}.e-con{--container-widget-width:100%}.e-con-inner>.elementor-widget-spacer,.e-con>.elementor-widget-spacer{width:var(--container-widget-width,var(--spacer-size));--align-self:var(--container-widget-align-self,initial);--flex-shrink:0}.e-con-inner>.elementor-widget-spacer>.elementor-widget-container,.e-con-inner>.elementor-widget-spacer>.elementor-widget-container>.elementor-spacer,.e-con>.elementor-widget-spacer>.elementor-widget-container,.e-con>.elementor-widget-spacer>.elementor-widget-container>.elementor-spacer{height:100%}.e-con-inner>.elementor-widget-spacer>.elementor-widget-container>.elementor-spacer>.elementor-spacer-inner,.e-con>.elementor-widget-spacer>.elementor-widget-container>.elementor-spacer>.elementor-spacer-inner{height:var(--container-widget-height,var(--spacer-size))}</style>		<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-f98f686 elementor-widget elementor-widget-heading" data-id="f98f686" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Buying or selling Used Clothes? We can help!</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-9bbc960 elementor-widget elementor-widget-text-editor" data-id="9bbc960" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.14.0 - 18-06-2023 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#69727d;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#69727d;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p>Textile Connect operates as a platform where buyers of used clothing can make inquiries about the goods they require. These inquiries are then forwarded to a network of sorting and collecting companies that can provide offers. Textile Connect selects the best offers, taking into account logistics costs, and manages the contract process.</p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-c47eba9 elementor-section-boxed elementor-section-height-default elementor-section-height-default wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no" data-id="c47eba9" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-5e9f186" data-id="5e9f186" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-24b1e74 elementor-widget elementor-widget-heading" data-id="24b1e74" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">How does it Work?</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-034334f elementor-widget elementor-widget-video" data-id="034334f" data-element_type="widget" data-settings="{&quot;video_type&quot;:&quot;hosted&quot;,&quot;controls&quot;:&quot;yes&quot;}" data-widget_type="video.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.14.0 - 18-06-2023 */
+.elementor-widget-video .elementor-widget-container{overflow:hidden;transform:translateZ(0)}.elementor-widget-video .elementor-wrapper{aspect-ratio:var(--video-aspect-ratio)}.elementor-widget-video .elementor-wrapper iframe,.elementor-widget-video .elementor-wrapper video{height:100%;width:100%;display:flex;border:none;background-color:#000}@supports not (aspect-ratio:1/1){.elementor-widget-video .elementor-wrapper{position:relative;overflow:hidden;height:0;padding-bottom:calc(100% / var(--video-aspect-ratio))}.elementor-widget-video .elementor-wrapper iframe,.elementor-widget-video .elementor-wrapper video{position:absolute;top:0;right:0;bottom:0;left:0}}.elementor-widget-video .elementor-open-inline .elementor-custom-embed-image-overlay{position:absolute;top:0;left:0;width:100%;height:100%;background-size:cover;background-position:50%}.elementor-widget-video .elementor-custom-embed-image-overlay{cursor:pointer;text-align:center}.elementor-widget-video .elementor-custom-embed-image-overlay:hover .elementor-custom-embed-play i{opacity:1}.elementor-widget-video .elementor-custom-embed-image-overlay img{display:block;width:100%}.elementor-widget-video .e-hosted-video .elementor-video{-o-object-fit:cover;object-fit:cover}.e-con-inner>.elementor-widget-video,.e-con>.elementor-widget-video{width:var(--container-widget-width);--flex-grow:var(--container-widget-flex-grow)}</style>		<div class="e-hosted-video elementor-wrapper elementor-open-inline">
+					<video class="elementor-video" src="https://textile-connect.com/wp-content/uploads/2023/07/resource-textile-connect-1080p-230705-5.mp4" controls="" preload="metadata" controlsList="nodownload"></video>
+				</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-6230a89 elementor-widget elementor-widget-spacer" data-id="6230a89" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-2ca7bad elementor-section-boxed elementor-section-height-default elementor-section-height-default wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no" data-id="2ca7bad" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-63a59d6" data-id="63a59d6" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-6938df7 elementor-widget elementor-widget-spacer" data-id="6938df7" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-15eb790 elementor-widget elementor-widget-heading" data-id="15eb790" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Buying or selling? we can help! Send us your requirements.</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-d4c9996 elementor-widget elementor-widget-htcontactform-addons" data-id="d4c9996" data-element_type="widget" data-widget_type="htcontactform-addons.default">
+				<div class="elementor-widget-container">
+			            <div class="htcontact-form-wrapper" >
+                
+<div class="wpcf7 no-js" id="wpcf7-f115-p50-o1" lang="de-DE" dir="ltr">
+<div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
+<form action="/#wpcf7-f115-p50-o1" method="post" class="wpcf7-form init" aria-label="Kontaktformular" enctype="multipart/form-data" novalidate="novalidate" data-status="init">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="115" />
+<input type="hidden" name="_wpcf7_version" value="5.7.7" />
+<input type="hidden" name="_wpcf7_locale" value="de_DE" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f115-p50-o1" />
+<input type="hidden" name="_wpcf7_container_post" value="50" />
+<input type="hidden" name="_wpcf7_posted_data_hash" value="" />
+<input type="hidden" name="_extcf7_conditional_options" value="{&quot;form_id&quot;:115,&quot;conditions&quot;:[]}" />
+<input type="hidden" name="_extcf7_redirect_options" value="{&quot;form_id&quot;:115,&quot;redirect_options&quot;:{&quot;redirection_enable&quot;:&quot;off&quot;,&quot;custom_url_enable&quot;:&quot;off&quot;,&quot;redirect_page&quot;:&quot;&quot;,&quot;custom_urle&quot;:&quot;&quot;,&quot;redirect_new_tab&quot;:&quot;off&quot;,&quot;js_action&quot;:&quot;off&quot;,&quot;javascript_code&quot;:&quot;&quot;}}" />
+</div>
+<style>
+ body {
+ background-color: white;
+ }
+</style>
+<div style="display: flex; flex-wrap: wrap;">
+	<div style="flex: 1; padding: 5px;">
+		<p><input type="text" name="area-of-activity" placeholder="Area of Activity" style="width: 100%;" />
+		</p>
+	</div>
+	<div style="flex: 1; padding: 5px;">
+		<p><input type="text" name="company-name" placeholder="Company Name" style="width: 100%;" />
+		</p>
+	</div>
+	<div style="flex: 1; padding: 5px;">
+		<p><select name="company-type" style="width: 100%;">
+ <option value="supplier">Supplier</option>
+ <option value="buyer">Buyer</option>
+ </select>
+		</p>
+	</div>
+</div>
+<div style="display: flex; flex-wrap: wrap;">
+	<div style="flex: 1; padding: 5px;">
+		<p><input type="text" name="your-name" placeholder="Name" style="width: 100%;" />
+		</p>
+	</div>
+	<div style="flex: 1; padding: 5px;">
+		<p><input type="tel" name="your-phone" placeholder="Phone" style="width: 100%;" />
+		</p>
+	</div>
+	<div style="flex: 1; padding: 5px;">
+		<p><input type="email" name="your-email" placeholder="Email" style="width: 100%;" />
+		</p>
+	</div>
+</div>
+<div style="display: flex; flex-wrap: wrap;">
+	<div style="flex: 1; padding: 5px;">
+		<p><input type="text" name="your-subject" placeholder="Subject" style="width: 100%;" />
+		</p>
+	</div>
+</div>
+<div style="display: flex; flex-wrap: wrap;">
+	<div style="flex: 2; padding: 5px;">
+		<p><textarea name="your-message" placeholder="Message (optional)" style="width: 90%; height: 150px;"></textarea>
+		</p>
+	</div>
+	<p><span class="wpcf7-form-control-wrap" data-name="file-688"><input size="40" class="wpcf7-form-control wpcf7-file" accept=".pdf,.png,.jpeg" aria-invalid="false" type="file" name="file-688" /></span>
+	</p>
+	<div style="flex: 1; padding: 5px; display: flex; align-items: flex-end;">
+		<p><input type="submit" value="Senden" style="background-color: #316d33; color: white; padding: 12px 24px; font-size: 16px; margin-left: 10px;" />
+		</p>
+	</div>
+</div><div class="wpcf7-response-output" aria-hidden="true"></div>
+</form>
+</div>
+            </div>
+
+        		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-7ed7939b2 elementor-section-boxed elementor-section-height-default elementor-section-height-default wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no" data-id="7ed7939b2" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-6b678349" data-id="6b678349" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-15b3d892 wpr-testimonial-meta-position-left wpr-testimonial-slider-columns--tablet1 wpr-testimonial-slider-columns-2 wpr-testimonial-slider-columns--mobile1 wpr-testimonial-rating-style_2 wpr-testimonial-meta-align-center wpr-testimonial-image-position-center elementor-widget elementor-widget-wpr-testimonial" data-id="15b3d892" data-element_type="widget" data-settings="{&quot;testimonial_amount_tablet&quot;:&quot;1&quot;,&quot;testimonial_amount&quot;:&quot;2&quot;,&quot;testimonial_slides_to_scroll&quot;:1,&quot;testimonial_amount_mobile&quot;:1,&quot;testimonial_loop&quot;:&quot;yes&quot;}" data-widget_type="wpr-testimonial.default">
+				<div class="elementor-widget-container">
+					<div class="wpr-testimonial-carousel-wrap">
+			
+			<div class="wpr-testimonial-carousel" dir="ltr" data-slick="{&quot;rtl&quot;:false,&quot;infinite&quot;:true,&quot;speed&quot;:1200,&quot;arrows&quot;:true,&quot;dots&quot;:true,&quot;autoplay&quot;:false,&quot;autoplaySpeed&quot;:0,&quot;pauseOnHover&quot;:&quot;&quot;,&quot;prevArrow&quot;:&quot;#wpr-testimonial-prev-15b3d892&quot;,&quot;nextArrow&quot;:&quot;#wpr-testimonial-next-15b3d892&quot;,&quot;sliderSlidesToScroll&quot;:1}" data-slide-effect="slide">
+					
+					
+											
+						<div class="wpr-testimonial-item elementor-repeater-item-f8542be elementor-clearfix">
+							
+							<div class="wpr-testimonial-meta elementor-clearfix">
+								<div class="wpr-testimonial-meta-inner">
+								
+					<div class="wpr-testimonial-image">
+				<img decoding="async" src="https://textile-connect.com/wp-content/uploads/2023/06/Maffffsk-Group-1.png" alt="GreenCycle Solutions ">
+			</div>
+		
+			
+		<div class="wpr-testimonial-meta-content-wrap">
+							<div class="wpr-testimonial-name">GreenCycle Solutions </div>
+			
+							<div class="wpr-testimonial-job">CEO</div>
+			
+			
+		</div>
+										</div>
+							</div>
+
+							
+		<div class="wpr-testimonial-content-wrap">
+			<div class="wpr-testimonial-content-inner">
+			
+							<div class="wpr-testimonial-title">Sustainable Sourcing Bliss!</div>
+			
+			
+							<div class="wpr-testimonial-content">
+					
+					<p><p>TextileConnect is a dream come true for eco-friendly designers like me. The variety and quality of fabrics are exceptional. Thank you for revolutionizing textile sourcing!</p></p>
+				</div>
+			
+								
+
+			<div class="wpr-testimonial-rating">
+												<i class="wpr-rating-icon-full">&#9734;</i>
+					     										<i class="wpr-rating-icon-full">&#9734;</i>
+					     										<i class="wpr-rating-icon-full">&#9734;</i>
+					     										<i class="wpr-rating-icon-full">&#9734;</i>
+					     										<i class="wpr-rating-icon-full">&#9734;</i>
+					     										<i class="wpr-rating-icon-empty">&#9734;</i>
+					     										<i class="wpr-rating-icon-empty">&#9734;</i>
+					     										<i class="wpr-rating-icon-empty">&#9734;</i>
+					     										<i class="wpr-rating-icon-empty">&#9734;</i>
+					     										<i class="wpr-rating-icon-empty">&#9734;</i>
+					     	
+	     				</div>
+
+				
+						</div>
+		</div>
+
+	
+							
+						</div>
+						
+											
+						<div class="wpr-testimonial-item elementor-repeater-item-ac5299a elementor-clearfix">
+							
+							<div class="wpr-testimonial-meta elementor-clearfix">
+								<div class="wpr-testimonial-meta-inner">
+								
+					<div class="wpr-testimonial-image">
+				<img decoding="async" src="https://textile-connect.com/wp-content/uploads/2023/06/Mask-Gfffffroup-3.png" alt="Sustainable Fiber">
+			</div>
+		
+			
+		<div class="wpr-testimonial-meta-content-wrap">
+							<div class="wpr-testimonial-name">Sustainable Fiber</div>
+			
+							<div class="wpr-testimonial-job">Co -  CEO</div>
+			
+			
+		</div>
+										</div>
+							</div>
+
+							
+		<div class="wpr-testimonial-content-wrap">
+			<div class="wpr-testimonial-content-inner">
+			
+							<div class="wpr-testimonial-title">Game - Changer</div>
+			
+			
+							<div class="wpr-testimonial-content">
+					
+					<p><p>Thanks to TextileConnect, I found a reliable supplier for top-quality recycled fabrics. It has truly transformed my sustainable fashion brand!</p><p>Wow Wow Wow</p></p>
+				</div>
+			
+								
+
+			<div class="wpr-testimonial-rating">
+												<i class="wpr-rating-icon-full">&#9734;</i>
+					     										<i class="wpr-rating-icon-full">&#9734;</i>
+					     										<i class="wpr-rating-icon-full">&#9734;</i>
+					     										<i class="wpr-rating-icon-full">&#9734;</i>
+					     										<i class="wpr-rating-icon-5">&#9734;</i>
+					     										<i class="wpr-rating-icon-empty">&#9734;</i>
+					     										<i class="wpr-rating-icon-empty">&#9734;</i>
+					     										<i class="wpr-rating-icon-empty">&#9734;</i>
+					     										<i class="wpr-rating-icon-empty">&#9734;</i>
+					     										<i class="wpr-rating-icon-empty">&#9734;</i>
+					     	
+	     				</div>
+
+				
+						</div>
+		</div>
+
+	
+							
+						</div>
+						
+											
+						<div class="wpr-testimonial-item elementor-repeater-item-2da3ad8 elementor-clearfix">
+							
+							<div class="wpr-testimonial-meta elementor-clearfix">
+								<div class="wpr-testimonial-meta-inner">
+								
+					<div class="wpr-testimonial-image">
+				<img decoding="async" src="https://textile-connect.com/wp-content/uploads/2023/06/Mask-Grofffffup-2.png" alt="EcoSort">
+			</div>
+		
+			
+		<div class="wpr-testimonial-meta-content-wrap">
+							<div class="wpr-testimonial-name">EcoSort</div>
+			
+							<div class="wpr-testimonial-job">CEO</div>
+			
+			
+		</div>
+										</div>
+							</div>
+
+							
+		<div class="wpr-testimonial-content-wrap">
+			<div class="wpr-testimonial-content-inner">
+			
+							<div class="wpr-testimonial-title">Efficient Connections</div>
+			
+			
+							<div class="wpr-testimonial-content">
+					
+					<p><p>TextileConnect has empowered our sorting company with efficient connections to buyers who value our recycled textiles. It has been instrumental in our sustainable success. Thank you, TextileConnect!</p></p>
+				</div>
+			
+								
+
+			<div class="wpr-testimonial-rating">
+												<i class="wpr-rating-icon-full">&#9734;</i>
+					     										<i class="wpr-rating-icon-full">&#9734;</i>
+					     										<i class="wpr-rating-icon-full">&#9734;</i>
+					     										<i class="wpr-rating-icon-full">&#9734;</i>
+					     										<i class="wpr-rating-icon-full">&#9734;</i>
+					     										<i class="wpr-rating-icon-empty">&#9734;</i>
+					     										<i class="wpr-rating-icon-empty">&#9734;</i>
+					     										<i class="wpr-rating-icon-empty">&#9734;</i>
+					     										<i class="wpr-rating-icon-empty">&#9734;</i>
+					     										<i class="wpr-rating-icon-empty">&#9734;</i>
+					     	
+	     				</div>
+
+				
+						</div>
+		</div>
+
+	
+							
+						</div>
+						
+											
+						<div class="wpr-testimonial-item elementor-repeater-item-ce3587c elementor-clearfix">
+							
+							<div class="wpr-testimonial-meta elementor-clearfix">
+								<div class="wpr-testimonial-meta-inner">
+								
+					<div class="wpr-testimonial-image">
+				<img decoding="async" src="https://textile-connect.com/wp-content/uploads/2023/06/Mffffask-Group.png" alt="ReSort">
+			</div>
+		
+			
+		<div class="wpr-testimonial-meta-content-wrap">
+							<div class="wpr-testimonial-name">ReSort</div>
+			
+							<div class="wpr-testimonial-job">CFO</div>
+			
+			
+		</div>
+										</div>
+							</div>
+
+							
+		<div class="wpr-testimonial-content-wrap">
+			<div class="wpr-testimonial-content-inner">
+			
+							<div class="wpr-testimonial-title">Remarkable Results</div>
+			
+			
+							<div class="wpr-testimonial-content">
+					
+					<p><p>TextileConnect has revolutionized our business operations. With its user-friendly platform, we have seamlessly connected with buyers, leading to remarkable results. The platform's commitment to sustainability and facilitating transactions has elevated our business to new heights.</p></p>
+				</div>
+			
+								
+
+			<div class="wpr-testimonial-rating">
+												<i class="wpr-rating-icon-full">&#9734;</i>
+					     										<i class="wpr-rating-icon-full">&#9734;</i>
+					     										<i class="wpr-rating-icon-full">&#9734;</i>
+					     										<i class="wpr-rating-icon-full">&#9734;</i>
+					     										<i class="wpr-rating-icon-5">&#9734;</i>
+					     										<i class="wpr-rating-icon-empty">&#9734;</i>
+					     										<i class="wpr-rating-icon-empty">&#9734;</i>
+					     										<i class="wpr-rating-icon-empty">&#9734;</i>
+					     										<i class="wpr-rating-icon-empty">&#9734;</i>
+					     										<i class="wpr-rating-icon-empty">&#9734;</i>
+					     	
+	     				</div>
+
+				
+						</div>
+		</div>
+
+	
+							
+						</div>
+									</div>
+
+			<div class="wpr-testimonial-controls">
+				<div class="wpr-testimonial-dots"></div>
+			</div>
+
+			<div class="wpr-testimonial-arrow-container">
+				<div class="wpr-testimonial-prev-arrow wpr-testimonial-arrow" id="wpr-testimonial-prev-15b3d892">
+					<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 283.4 512" style="enable-background:new 0 0 283.4 512;" xml:space="preserve"><g><polygon class="st0" points="54.5,256.3 283.4,485.1 256.1,512.5 0,256.3 0,256.3 27.2,229 256.1,0 283.4,27.4 "/></g></svg>				</div>
+				<div class="wpr-testimonial-next-arrow wpr-testimonial-arrow" id="wpr-testimonial-next-15b3d892">
+					<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 283.4 512" style="enable-background:new 0 0 283.4 512;" xml:space="preserve"><g><polygon class="st0" points="54.5,256.3 283.4,485.1 256.1,512.5 0,256.3 0,256.3 27.2,229 256.1,0 283.4,27.4 "/></g></svg>				</div>
+			</div>
+		</div>
+
+			</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		</div>		</div>
+			</div>
+</div>
+
+</main><!--/.neve-main-->
+
+<footer class="site-footer" id="site-footer"  >
+	<div class="hfg_footer">
+		<div class="footer--row footer-bottom layout-fullwidth"
+	id="cb-row--footer-bottom"
+	data-row-id="bottom" data-show-on="desktop">
+	<div
+		class="footer--row-inner footer-bottom-inner footer-content-wrap">
+		<div class="container">
+			<div
+				class="hfg-grid nv-footer-content hfg-grid-bottom row--wrapper row "
+				data-section="hfg_footer_layout_bottom" >
+				<div class="hfg-slot left"><div class="builder-item"><div class="item--inner"><div class="component-wrap"><div><p><a href="https://themeisle.com/themes/neve/" rel="nofollow">Neve</a> | Präsentiert von <a href="http://wordpress.org" rel="nofollow">WordPress</a></p></div></div></div></div></div><div class="hfg-slot c-left"><div class="builder-item desktop-center tablet-left mobile-left"><div class="item--inner builder-item--footer-menu has_menu"
+		data-section="footer_menu_primary"
+		data-item-id="footer-menu">
+	<div class="component-wrap">
+	<div role="navigation" class="nav-menu-footer"
+		aria-label="Footer-Menü">
+
+		<ul id="footer-menu" class="footer-menu nav-ul"><li id="menu-item-209" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-209"><div class="wrap"><a href="https://textile-connect.com/contact-us/">Contact Us</a></div></li>
+<li id="menu-item-210" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-210"><div class="wrap"><a href="https://textile-connect.com/datenschutz/">Datenschutz</a></div></li>
+<li id="menu-item-211" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-211"><div class="wrap"><a href="https://textile-connect.com/impressum/">Impressum</a></div></li>
+<li id="menu-item-232" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-232"><div class="wrap"><a href="https://textile-connect.com/my-account/">Buyer Account</a></div></li>
+<li id="menu-item-360" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-360"><div class="wrap"><a href="https://textile-connect.com/my-account/">Seller Account</a></div></li>
+</ul>	</div>
+</div>
+
+	</div>
+
+</div></div><div class="hfg-slot center"></div>							</div>
+		</div>
+	</div>
+</div>
+
+	</div>
+</footer>
+
+</div><!--/.wrapper-->
+<script type="text/javascript">
+    window.__lc_connect = '{"ajaxUrl":"https:\/\/textile-connect.com\/wp-admin\/admin-ajax.php","customer":{"id":3,"name":"David K\u00f6thnig","email":"david.koethnig@tum.de"}}';
+</script>
+
+<script async type="text/javascript" src="https://connect.livechatinc.com/api/v1/script/e1d4197d-fe1b-491f-83f6-1d388de72339/widget.js?lcv=770a93d1-b679-4cac-9cea-1338f5454cc9"></script>
+<script type="text/template" id="tmpl-elementor-templates-modal__header">
+	<div class="elementor-templates-modal__header__logo-area"></div>
+	<div class="elementor-templates-modal__header__menu-area"></div>
+	<div class="elementor-templates-modal__header__items-area">
+		<# if ( closeType ) { #>
+			<div class="elementor-templates-modal__header__close elementor-templates-modal__header__close--{{{ closeType }}} elementor-templates-modal__header__item">
+				<# if ( 'skip' === closeType ) { #>
+				<span>Überspringen</span>
+				<# } #>
+				<i class="eicon-close" aria-hidden="true"></i>
+				<span class="elementor-screen-only">Schließen</span>
+			</div>
+		<# } #>
+		<div id="elementor-template-library-header-tools"></div>
+	</div>
+</script>
+
+<script type="text/template" id="tmpl-elementor-templates-modal__header__logo">
+	<span class="elementor-templates-modal__header__logo__icon-wrapper e-logo-wrapper">
+		<i class="eicon-elementor"></i>
+	</span>
+	<span class="elementor-templates-modal__header__logo__title">{{{ title }}}</span>
+</script>
+<script type="text/template" id="tmpl-elementor-finder">
+	<div id="elementor-finder__search">
+		<i class="eicon-search" aria-hidden="true"></i>
+		<input id="elementor-finder__search__input" placeholder="Lostippen, um alles in Elementor zu finden" autocomplete="off">
+	</div>
+	<div id="elementor-finder__content"></div>
+</script>
+
+<script type="text/template" id="tmpl-elementor-finder-results-container">
+	<div id="elementor-finder__no-results">Keine Ergebnisse gefunden</div>
+	<div id="elementor-finder__results"></div>
+</script>
+
+<script type="text/template" id="tmpl-elementor-finder__results__category">
+	<div class="elementor-finder__results__category__title">{{{ title }}}</div>
+	<div class="elementor-finder__results__category__items"></div>
+</script>
+
+<script type="text/template" id="tmpl-elementor-finder__results__item">
+	<a href="{{ url }}" class="elementor-finder__results__item__link">
+		<div class="elementor-finder__results__item__icon">
+			<i class="eicon-{{{ icon }}}" aria-hidden="true"></i>
+		</div>
+		<div class="elementor-finder__results__item__title">{{{ title }}}</div>
+		<# if ( description ) { #>
+			<div class="elementor-finder__results__item__description">- {{{ description }}}</div>
+		<# } #>
+
+		<# if ( lock ) { #>
+		<div class="elementor-finder__results__item__badge"><i class="{{{ lock.badge.icon }}}"></i>{{ lock.badge.text }}</div>
+		<# } #>
+	</a>
+	<# if ( actions.length ) { #>
+		<div class="elementor-finder__results__item__actions">
+		<# jQuery.each( actions, function() { #>
+			<a class="elementor-finder__results__item__action elementor-finder__results__item__action--{{ this.name }}" href="{{ this.url }}" target="_blank">
+				<i class="eicon-{{{ this.icon }}}"></i>
+			</a>
+		<# } ); #>
+		</div>
+	<# } #>
+</script>
+	<script type="text/javascript">
+		(function () {
+			var c = document.body.className;
+			c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+			document.body.className = c;
+		})();
+	</script>
+	<link rel='stylesheet' id='wpcom-notes-admin-bar-css' href='https://s0.wp.com/wp-content/mu-plugins/notes/admin-bar-v2.css?ver=12.2-202328-lite' type='text/css' media='all' />
+<link rel='stylesheet' id='noticons-css' href='https://s0.wp.com/i/noticons/noticons.css?ver=12.2-202328-lite' type='text/css' media='all' />
+<link rel='stylesheet' id='ionos-performance-admin-bar-flush-css' href='https://textile-connect.com/wp-content/plugins/ionos-performance/vendor/ionos/performance-feature-caching/css/admin-bar-flush.css?ver=1676532948' type='text/css' media='all' />
+<script type='text/javascript' src='https://textile-connect.com/wp-includes/js/dist/i18n.min.js?ver=9e794f35a71bb98672ae' id='wp-i18n-js'></script>
+<script type='text/javascript' id='wp-i18n-js-after'>
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+</script>
+<script type='text/javascript' src='https://textile-connect.com/wp-includes/js/dist/url.min.js?ver=16185fce2fb043a0cfed' id='wp-url-js'></script>
+<script type='text/javascript' id='wp-api-fetch-js-translations'>
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "default", {"translation-revision-date":"2023-05-16 20:12:09+0000","generator":"GlotPress\/4.0.0-alpha.4","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=2; plural=n != 1;","lang":"de"},"You are probably offline.":["Du bist wahrscheinlich offline."],"Media upload failed. If this is a photo or a large image, please scale it down and try again.":["Das Hochladen von Medien ist fehlgeschlagen. Wenn es sich um ein Foto oder ein gro\u00dfes Bild handelt, verkleiner es bitte und versuch es erneut."],"The response is not a valid JSON response.":["Die Antwort ist keine g\u00fcltige JSON-Antwort."],"An unknown error occurred.":["Ein unbekannter Fehler ist aufgetreten."]}},"comment":{"reference":"wp-includes\/js\/dist\/api-fetch.js"}} );
+</script>
+<script type='text/javascript' src='https://textile-connect.com/wp-includes/js/dist/api-fetch.min.js?ver=bc0029ca2c943aec5311' id='wp-api-fetch-js'></script>
+<script type='text/javascript' id='wp-api-fetch-js-after'>
+wp.apiFetch.use( wp.apiFetch.createRootURLMiddleware( "https://textile-connect.com/wp-json/" ) );
+wp.apiFetch.nonceMiddleware = wp.apiFetch.createNonceMiddleware( "e2a6bc7e49" );
+wp.apiFetch.use( wp.apiFetch.nonceMiddleware );
+wp.apiFetch.use( wp.apiFetch.mediaUploadMiddleware );
+wp.apiFetch.nonceEndpoint = "https://textile-connect.com/wp-admin/admin-ajax.php?action=rest-nonce";
+</script>
+<script type='text/javascript' src='https://textile-connect.com/wp-includes/js/dist/vendor/lodash.min.js?ver=4.17.19' id='lodash-js'></script>
+<script type='text/javascript' id='lodash-js-after'>
+window.lodash = _.noConflict();
+</script>
+<script type='text/javascript' src='https://textile-connect.com/wp-includes/js/dist/vendor/react.min.js?ver=18.2.0' id='react-js'></script>
+<script type='text/javascript' src='https://textile-connect.com/wp-includes/js/dist/vendor/react-dom.min.js?ver=18.2.0' id='react-dom-js'></script>
+<script type='text/javascript' src='https://textile-connect.com/wp-includes/js/dist/dom-ready.min.js?ver=392bdd43726760d1f3ca' id='wp-dom-ready-js'></script>
+<script type='text/javascript' id='wp-a11y-js-translations'>
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "default", {"translation-revision-date":"2023-05-16 20:12:09+0000","generator":"GlotPress\/4.0.0-alpha.4","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=2; plural=n != 1;","lang":"de"},"Notifications":["Benachrichtigungen"]}},"comment":{"reference":"wp-includes\/js\/dist\/a11y.js"}} );
+</script>
+<script type='text/javascript' src='https://textile-connect.com/wp-includes/js/dist/a11y.min.js?ver=ecce20f002eda4c19664' id='wp-a11y-js'></script>
+<script type='text/javascript' src='https://textile-connect.com/wp-includes/js/dist/blob.min.js?ver=e7b4ea96175a89b263e2' id='wp-blob-js'></script>
+<script type='text/javascript' src='https://textile-connect.com/wp-includes/js/dist/autop.min.js?ver=43197d709df445ccf849' id='wp-autop-js'></script>
+<script type='text/javascript' src='https://textile-connect.com/wp-includes/js/dist/block-serialization-default-parser.min.js?ver=30ffd7e7e199f10b2a6d' id='wp-block-serialization-default-parser-js'></script>
+<script type='text/javascript' src='https://textile-connect.com/wp-includes/js/dist/deprecated.min.js?ver=6c963cb9494ba26b77eb' id='wp-deprecated-js'></script>
+<script type='text/javascript' src='https://textile-connect.com/wp-includes/js/dist/dom.min.js?ver=e03c89e1dd68aee1cb3a' id='wp-dom-js'></script>
+<script type='text/javascript' src='https://textile-connect.com/wp-includes/js/dist/escape-html.min.js?ver=03e27a7b6ae14f7afaa6' id='wp-escape-html-js'></script>
+<script type='text/javascript' src='https://textile-connect.com/wp-includes/js/dist/element.min.js?ver=b3bda690cfc516378771' id='wp-element-js'></script>
+<script type='text/javascript' src='https://textile-connect.com/wp-includes/js/dist/is-shallow-equal.min.js?ver=20c2b06ecf04afb14fee' id='wp-is-shallow-equal-js'></script>
+<script type='text/javascript' id='wp-keycodes-js-translations'>
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "default", {"translation-revision-date":"2023-05-16 20:12:09+0000","generator":"GlotPress\/4.0.0-alpha.4","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=2; plural=n != 1;","lang":"de"},"Tilde":["Tilde"],"Backtick":["Backtick"],"Period":["Punkt"],"Comma":["Komma"]}},"comment":{"reference":"wp-includes\/js\/dist\/keycodes.js"}} );
+</script>
+<script type='text/javascript' src='https://textile-connect.com/wp-includes/js/dist/keycodes.min.js?ver=184b321fa2d3bc7fd173' id='wp-keycodes-js'></script>
+<script type='text/javascript' src='https://textile-connect.com/wp-includes/js/dist/priority-queue.min.js?ver=422e19e9d48b269c5219' id='wp-priority-queue-js'></script>
+<script type='text/javascript' src='https://textile-connect.com/wp-includes/js/dist/compose.min.js?ver=7d5916e3b2ef0ea01400' id='wp-compose-js'></script>
+<script type='text/javascript' src='https://textile-connect.com/wp-includes/js/dist/private-apis.min.js?ver=6f247ed2bc3571743bba' id='wp-private-apis-js'></script>
+<script type='text/javascript' src='https://textile-connect.com/wp-includes/js/dist/redux-routine.min.js?ver=d86e7e9f062d7582f76b' id='wp-redux-routine-js'></script>
+<script type='text/javascript' src='https://textile-connect.com/wp-includes/js/dist/data.min.js?ver=90cebfec01d1a3f0368e' id='wp-data-js'></script>
+<script type='text/javascript' id='wp-data-js-after'>
+( function() {
+	var userId = 3;
+	var storageKey = "WP_DATA_USER_" + userId;
+	wp.data
+		.use( wp.data.plugins.persistence, { storageKey: storageKey } );
+} )();
+</script>
+<script type='text/javascript' src='https://textile-connect.com/wp-includes/js/dist/html-entities.min.js?ver=36a4a255da7dd2e1bf8e' id='wp-html-entities-js'></script>
+<script type='text/javascript' src='https://textile-connect.com/wp-includes/js/dist/shortcode.min.js?ver=7539044b04e6bca57f2e' id='wp-shortcode-js'></script>
+<script type='text/javascript' id='wp-blocks-js-translations'>
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "default", {"translation-revision-date":"2023-05-16 20:12:09+0000","generator":"GlotPress\/4.0.0-alpha.4","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=2; plural=n != 1;","lang":"de"},"%1$s Block. Row %2$d":["Block %1$s. Zeile %2$d"],"Design":["Design"],"%s Block":["Block %s"],"%1$s Block. %2$s":["Block %1$s. %2$s"],"%1$s Block. Column %2$d":["Block %1$s. Spalte %2$d"],"%1$s Block. Column %2$d. %3$s":["Block %1$s. Spalte %2$d. %3$s"],"%1$s Block. Row %2$d. %3$s":["Block %1$s. Zeile %2$d. %3$s"],"Reusable blocks":["Wiederverwendbare Bl\u00f6cke"],"Embeds":["Einbettungen"],"Text":["Text"],"Widgets":["Widgets"],"Theme":["Theme"],"Media":["Medien"]}},"comment":{"reference":"wp-includes\/js\/dist\/blocks.js"}} );
+</script>
+<script type='text/javascript' src='https://textile-connect.com/wp-includes/js/dist/blocks.min.js?ver=639e14271099dc3d85bf' id='wp-blocks-js'></script>
+<script type='text/javascript' src='https://textile-connect.com/wp-includes/js/dist/vendor/moment.min.js?ver=2.29.4' id='moment-js'></script>
+<script type='text/javascript' id='moment-js-after'>
+moment.updateLocale( 'de_DE', {"months":["Januar","Februar","M\u00e4rz","April","Mai","Juni","Juli","August","September","Oktober","November","Dezember"],"monthsShort":["Jan","Feb","Mrz","Apr","Mai","Jun","Jul","Aug","Sep","Okt","Nov","Dez"],"weekdays":["Sonntag","Montag","Dienstag","Mittwoch","Donnerstag","Freitag","Samstag"],"weekdaysShort":["So","Mo","Di","Mi","Do","Fr","Sa"],"week":{"dow":1},"longDateFormat":{"LT":"g:i a","LTS":null,"L":null,"LL":"F j, Y","LLL":"j. F Y G:i","LLLL":null}} );
+</script>
+<script type='text/javascript' src='https://textile-connect.com/wp-includes/js/dist/date.min.js?ver=f8550b1212d715fbf745' id='wp-date-js'></script>
+<script type='text/javascript' id='wp-date-js-after'>
+wp.date.setSettings( {"l10n":{"locale":"de_DE","months":["Januar","Februar","M\u00e4rz","April","Mai","Juni","Juli","August","September","Oktober","November","Dezember"],"monthsShort":["Jan","Feb","Mrz","Apr","Mai","Jun","Jul","Aug","Sep","Okt","Nov","Dez"],"weekdays":["Sonntag","Montag","Dienstag","Mittwoch","Donnerstag","Freitag","Samstag"],"weekdaysShort":["So","Mo","Di","Mi","Do","Fr","Sa"],"meridiem":{"am":"am","pm":"pm","AM":"AM","PM":"PM"},"relative":{"future":"%s ab jetzt","past":"vor %s"},"startOfWeek":1},"formats":{"time":"g:i a","date":"F j, Y","datetime":"j. F Y G:i","datetimeAbbreviated":"j. M. Y G:i"},"timezone":{"offset":0,"string":"","abbr":""}} );
+</script>
+<script type='text/javascript' src='https://textile-connect.com/wp-includes/js/dist/primitives.min.js?ver=dfac1545e52734396640' id='wp-primitives-js'></script>
+<script type='text/javascript' id='wp-rich-text-js-translations'>
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "default", {"translation-revision-date":"2023-05-16 20:12:09+0000","generator":"GlotPress\/4.0.0-alpha.4","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=2; plural=n != 1;","lang":"de"},"%s applied.":["%s wurde angewandt."],"%s removed.":["%s wurde entfernt."]}},"comment":{"reference":"wp-includes\/js\/dist\/rich-text.js"}} );
+</script>
+<script type='text/javascript' src='https://textile-connect.com/wp-includes/js/dist/rich-text.min.js?ver=9307ec04c67d79b6e813' id='wp-rich-text-js'></script>
+<script type='text/javascript' src='https://textile-connect.com/wp-includes/js/dist/warning.min.js?ver=4acee5fc2fd9a24cefc2' id='wp-warning-js'></script>
+<script type='text/javascript' id='wp-components-js-translations'>
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "default", {"translation-revision-date":"2023-05-16 20:12:09+0000","generator":"GlotPress\/4.0.0-alpha.4","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=2; plural=n != 1;","lang":"de"},"December":["Dezember"],"November":["November"],"October":["Oktober"],"September":["September"],"August":["August"],"July":["Juli"],"June":["Juni"],"May":["Mai"],"April":["April"],"March":["M\u00e4rz"],"February":["Februar"],"January":["Januar"],"Defaults":["Standards"],"Extra Extra Large":["Extrem gro\u00df"],"Show details":["Details anzeigen"],"Decrement":["Verringern"],"Increment":["Erh\u00f6hen"],"All options reset":["Alle Optionen wurden zur\u00fcckgesetzt"],"All options are currently hidden":["Alle Optionen sind derzeit ausgeblendet"],"%s is now visible":["%s ist jetzt sichtbar"],"%s hidden and reset to default":["%s ausblenden und auf Standard zur\u00fccksetzen"],"%s reset to default":["%s auf Standard zur\u00fccksetzen"],"XXL":["XXL"],"XL":["XL"],"L":["L"],"M":["M"],"S":["S"],"Unset":["Nicht festgelegt"],"%1$s. Selected":["%1$s wurde ausgew\u00e4hlt"],"%1$s. Selected. There is %2$d event":["%1$s wurde ausgew\u00e4hlt. Es gibt %2$d Ereignis","%1$s wurde ausgew\u00e4hlt. Es gibt %2$d Ereignisse"],"View next month":["N\u00e4chsten Monat anzeigen"],"View previous month":["Vorherigen Monat anzeigen"],"Border color and style picker":["Farb- und Stilw\u00e4hler f\u00fcr R\u00e4nder"],"Bottom border":["Rand unten"],"Right border":["Rand rechts"],"Left border":["Rand links"],"Top border":["Rand oben"],"Reset to default":["Auf Standard zur\u00fccksetzen"],"Close border color":["Randfarbe schlie\u00dfen"],"Border color picker.":["Farbw\u00e4hler f\u00fcr R\u00e4nder."],"Border color and style picker.":["Farb- und Stilw\u00e4hler f\u00fcr R\u00e4nder."],"Custom color picker. The currently selected color is called \"%1$s\" and has a value of \"%2$s\".":["Individueller Farbw\u00e4hler. Die aktuell ausgew\u00e4hlte Farbe hei\u00dft \"%1$s\" und hat einen Wert von \"%2$s\"."],"Link sides":["Seiten verlinken"],"Unlink sides":["Links zu den Seiten entfernen"],"Reset all":["Alle zur\u00fccksetzen"],"Button label to reveal tool panel options\u0004%s options":["%s-Optionen"],"Show %s":["%s anzeigen"],"Hide and reset %s":["%s ausblenden und zur\u00fccksetzen"],"Reset %s":["%s zur\u00fccksetzen"],"Search %s":["%s suchen"],"Set custom size":["Individuelle Gr\u00f6\u00dfe festlegen"],"Use size preset":["Voreingestellte Gr\u00f6\u00dfe verwenden"],"Currently selected font size: %s":["Aktuell ausgew\u00e4hlte Schriftgr\u00f6\u00dfe: %s"],"Highlights":["Hervorhebungen"],"Size of a UI element\u0004Extra Large":["Extra gro\u00df"],"Size of a UI element\u0004Large":["Gro\u00df"],"Size of a UI element\u0004Medium":["Mittel"],"Size of a UI element\u0004Small":["Klein"],"Size of a UI element\u0004None":["Keine"],"Currently selected: %s":["Aktuell ausgew\u00e4hlt: %s"],"No selection":["Keine Auswahl"],"Reset colors":["Farben zur\u00fccksetzen"],"Reset gradient":["Verlauf zur\u00fccksetzen"],"Remove all colors":["Alle Farben entfernen"],"Remove all gradients":["Alle Verl\u00e4ufe entfernen"],"Color options":["Farb-Optionen"],"Gradient options":["Verlauf-Einstellungen"],"Add color":["Farbe hinzuf\u00fcgen"],"Add gradient":["Verlauf hinzuf\u00fcgen"],"Gradient name":["Name des Verlaufs"],"Color %s":["Farbe %s"],"Color format":["Farbformat"],"Hex color":["Hex-Farbe"],"Invalid item":["Ung\u00fcltiges Element"],"Shadows":["Schatten"],"Duotone: %s":["Duotone: %s"],"Duotone code: %s":["Duotone-Code: %s"],"%1$s. There is %2$d event":["%1$s. Es gibt %2$d Ereignis","%1$s. Es gibt %2$d Ereignisse"],"Relative to root font size (rem)\u0004rems":["rem"],"Relative to parent font size (em)\u0004ems":["em"],"Points (pt)":["Points (pt)"],"Picas (pc)":["Picas (pc)"],"Inches (in)":["Inches (in)"],"Millimeters (mm)":["Millimeter (mm)"],"Centimeters (cm)":["Zentimeter (cm)"],"x-height of the font (ex)":["x-H\u00f6he der Schrift (ex)"],"Width of the zero (0) character (ch)":["Breite des Zeichens (ch) Null (0)"],"Viewport largest dimension (vmax)":["Gr\u00f6\u00dfte Viewport-Abmessung (vmax)"],"Viewport smallest dimension (vmin)":["Kleinste Viewport-Abmessung (vmin)"],"Percent (%)":["Prozent (%)"],"Border width":["Randbreite"],"Dotted":["Gepunktet"],"Dashed":["Gestrichelt"],"Viewport height (vh)":["Viewport-H\u00f6he (vh)"],"Viewport width (vw)":["Viewport-Breite (vw)"],"Relative to root font size (rem)":["Relativ zur Basis-Schriftgr\u00f6\u00dfe (rem)"],"Relative to parent font size (em)":["Relativ zur vererbten Schriftgr\u00f6\u00dfe (em)"],"Pixels (px)":["Pixel (px)"],"Percentage (%)":["Prozentual (%)"],"Vertical":["Vertikal"],"Horizontal":["Horizontal"],"Close search":["Suche schlie\u00dfen"],"Search in %s":["Suche nach %s"],"Select unit":["Einheit ausw\u00e4hlen"],"Radial":["Radial"],"Linear":["Linear"],"Media preview":["Medien-Vorschau"],"Coordinated Universal Time":["Koordinierte Weltzeit"],"Remove color":["Farbe entfernen"],"Color name":["Farbname"],"Reset search":["Suche zur\u00fccksetzen"],"Box Control":["Boxen-Steuerung"],"Alignment Matrix Control":["Steuerung der Ausrichtungsmatrix"],"Bottom Center":["Unten zentriert"],"Center Right":["Mitte rechts"],"Center Left":["Mitte links"],"Top Center":["Oben zentriert"],"Solid":["Einfarbig"],"Finish":["Fertigstellen"],"Page %1$d of %2$d":["Seite %1$d von %2$d"],"Guide controls":["Guide-Bedienelemente"],"Gradient: %s":["Verlauf: %s"],"Gradient code: %s":["Code f\u00fcr den Verlauf: %s"],"Remove Control Point":["Kontrollpunkt entfernen"],"Use your left or right arrow keys or drag and drop with the mouse to change the gradient position. Press the button to change the color or remove the control point.":["Benutze deine linke oder rechte Pfeiltaste oder Drag-and-drop mit der Maus, um die Verlaufs-Position zu \u00e4ndern. Dr\u00fccke den Button, um die Farbe zu \u00e4ndern oder den Kontrollpunkt zu entfernen."],"Gradient control point at position %1$s%% with color code %2$s.":["Verlaufs-Kontrollpunkt an Position %1$s%% mit Farbcode %2$s."],"Extra Large":["Extra gro\u00df"],"Small":["Klein"],"Angle":["Winkel"],"Separate with commas or the Enter key.":["Mit Kommas oder der Eingabetaste trennen."],"Separate with commas, spaces, or the Enter key.":["Mit Kommas, Leerzeichen oder der Eingabetaste trennen."],"Copied!":["Kopiert!"],"%d result found.":["%d Ergebnis gefunden.","%d Ergebnisse gefunden."],"Number of items":["Anzahl Elemente"],"Category":["Kategorie"],"Z \u2192 A":["Z bis A"],"A \u2192 Z":["A bis Z"],"Oldest to newest":["Alt nach Neu"],"Newest to oldest":["Neu nach Alt"],"Order by":["Reihenfolge von"],"Dismiss this notice":["Diesen Hinweis verwerfen"],"%1$s (%2$s of %3$s)":["%1$s (%2$s von %3$s)"],"Remove item":["Element entfernen"],"Item removed.":["Element entfernt."],"Item added.":["Element hinzugef\u00fcgt."],"Add item":["Element hinzuf\u00fcgen"],"Reset":["Zur\u00fccksetzen"],"(opens in a new tab)":["(\u00f6ffnet in neuem Tab)"],"Minutes":["Minuten"],"Calendar Help":["Kalender-Hilfe"],"Go to the first (Home) or last (End) day of a week.":["Gehe zum ersten (Start) oder letzten (Ende) Tag der Woche."],"Home\/End":["Start\/Ende"],"Home and End":["Start und Ende"],"Move backward (PgUp) or forward (PgDn) by one month.":["Zur\u00fcck (Bild-auf) oder vorw\u00e4rts (Bild-ab) bewegen um einen Monat."],"PgUp\/PgDn":["Bild-auf\/Bild-ab"],"Page Up and Page Down":["Bild-auf und Bild-ab"],"Move backward (up) or forward (down) by one week.":["Zur\u00fcck (hoch) oder vorw\u00e4rts (runter) bewegen um eine Woche."],"Up and Down Arrows":["Pfeile hoch und runter"],"Move backward (left) or forward (right) by one day.":["Zur\u00fcck (links) oder vorw\u00e4rts (rechts) bewegen um einen Tag."],"Left and Right Arrows":["Pfeile links und rechts"],"Select the date in focus.":["Datum im Fokus ausw\u00e4hlen."],"keyboard button\u0004Enter":["Eingabetaste"],"Navigating with a keyboard":["Navigation mit einer Tastatur"],"Click the desired day to select it.":["Klicke den gew\u00fcnschten Tag an, um ihn auszuw\u00e4hlen."],"Click the right or left arrows to select other months in the past or the future.":["Klicke die Pfeile nach rechts oder links an, um Monate in der Vergangenheit oder der Zukunft auszuw\u00e4hlen."],"Click to Select":["Klicken zum Ausw\u00e4hlen"],"Color: %s":["Farbe: %s"],"Color code: %s":["Farbcode: %s"],"Custom color picker.":["Individueller Farbw\u00e4hler."],"No results.":["Keine Ergebnisse."],"%d result found, use up and down arrow keys to navigate.":["%d Ergebnis gefunden, benutze die Pfeile nach oben oder unten zum Navigieren.","%d Ergebnisse gefunden, benutze die Pfeile nach oben oder unten zum Navigieren."],"Time":["Zeit"],"Day":["Tag"],"Month":["Monat"],"Date":["Datum"],"Hours":["\u00d6ffnungszeiten"],"Item selected.":["Eintrag ausgew\u00e4hlt."],"Previous":["Vorherige"],"Border color":["Randfarbe"],"Year":["Jahr"],"Custom Size":["Individuelle Gr\u00f6\u00dfe"],"Back":["Zur\u00fcck"],"Tools":["Werkzeuge"],"Style":["Stil"],"Large":["Gro\u00df"],"Drop files to upload":["Dateien f\u00fcr den Upload bereitstellen"],"Clear":["Leeren"],"Mixed":["Gemischt"],"Custom":["Individuell"],"Next":["Weiter"],"PM":["PM"],"AM":["AM"],"Bottom Right":["Unten rechts"],"Bottom Left":["Unten links"],"Top Right":["Oben rechts"],"Top Left":["Oben links"],"Type":["Typ"],"Bottom":["Unten"],"Top":["Oben"],"Copy":["Kopieren"],"Font size":["Schriftgr\u00f6\u00dfe"],"Calendar":["Kalender"],"No results found.":["Es wurden keine Ergebnisse gefunden, die deinen Suchkriterien entsprechen."],"All":["Alle"],"Default":["Standard"],"Close":["Schlie\u00dfen"],"Search":["Suchen"],"OK":["OK"],"Size":["Gr\u00f6\u00dfe"],"Medium":["Mittel"],"Right":["Rechts"],"Center":["Zentriert"],"Left":["Links"],"Cancel":["Abbrechen"],"Done":["Fertig"],"Categories":["Kategorien"],"Author":["Autor"]}},"comment":{"reference":"wp-includes\/js\/dist\/components.js"}} );
+</script>
+<script type='text/javascript' src='https://textile-connect.com/wp-includes/js/dist/components.min.js?ver=bf6e0ec3089253604b52' id='wp-components-js'></script>
+<script type='text/javascript' src='https://textile-connect.com/wp-includes/js/dist/keyboard-shortcuts.min.js?ver=b696c16720133edfc065' id='wp-keyboard-shortcuts-js'></script>
+<script type='text/javascript' src='https://textile-connect.com/wp-includes/js/dist/notices.min.js?ver=9c1575b7a31659f45a45' id='wp-notices-js'></script>
+<script type='text/javascript' src='https://textile-connect.com/wp-includes/js/dist/preferences-persistence.min.js?ver=c5543628aa7ff5bd5be4' id='wp-preferences-persistence-js'></script>
+<script type='text/javascript' id='wp-preferences-js-translations'>
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "default", {"translation-revision-date":"2023-05-16 20:12:09+0000","generator":"GlotPress\/4.0.0-alpha.4","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=2; plural=n != 1;","lang":"de"},"Preference activated - %s":["Pr\u00e4ferenz aktiviert \u2013 %s"],"Preference deactivated - %s":["Pr\u00e4ferenz deaktiviert \u2013 %s"]}},"comment":{"reference":"wp-includes\/js\/dist\/preferences.js"}} );
+</script>
+<script type='text/javascript' src='https://textile-connect.com/wp-includes/js/dist/preferences.min.js?ver=c66e137a7e588dab54c3' id='wp-preferences-js'></script>
+<script type='text/javascript' id='wp-preferences-js-after'>
+( function() {
+				var serverData = {"core\/edit-post":{"isComplementaryAreaVisible":true,"welcomeGuide":false,"openPanels":["post-status"]},"_modified":"2023-06-27T21:56:30.314Z","core\/edit-widgets":{"isComplementaryAreaVisible":true,"welcomeGuide":false}};
+				var userId = "3";
+				var persistenceLayer = wp.preferencesPersistence.__unstableCreatePersistenceLayer( serverData, userId );
+				var preferencesStore = wp.preferences.store;
+				wp.data.dispatch( preferencesStore ).setPersistenceLayer( persistenceLayer );
+			} ) ();
+</script>
+<script type='text/javascript' src='https://textile-connect.com/wp-includes/js/dist/style-engine.min.js?ver=528e6cf281ffc9b7bd3c' id='wp-style-engine-js'></script>
+<script type='text/javascript' src='https://textile-connect.com/wp-includes/js/dist/token-list.min.js?ver=f2cf0bb3ae80de227e43' id='wp-token-list-js'></script>
+<script type='text/javascript' src='https://textile-connect.com/wp-includes/js/dist/wordcount.min.js?ver=feb9569307aec24292f2' id='wp-wordcount-js'></script>
+<script type='text/javascript' id='wp-block-editor-js-translations'>
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "default", {"translation-revision-date":"2023-05-16 20:12:09+0000","generator":"GlotPress\/4.0.0-alpha.4","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=2; plural=n != 1;","lang":"de"},"Uncategorized":["Allgemein"],"Name for the value of the CSS position property\u0004Fixed":["Fest"],"Name for the value of the CSS position property\u0004Sticky":["Oben gehalten"],"Add submenu link":["Einen Link zum Untermen\u00fc hinzuf\u00fcgen"],"Your menu is currently empty. Add your first menu item to get started.":["Dein Men\u00fc ist derzeit ohne Inhalt. F\u00fcge dein erstes Men\u00fcelement hinzu, um zu beginnen."],"Edit %s block":["Den Block %s bearbeiten"],"Append to %1$s block at position %2$d, Level %3$d":["Anwenden auf Block %1$s an Position %2$d, Ebene %3$d"],"%s block inserted":["%s-Block eingef\u00fcgt"],"Dismiss hint":["Hinweis verwerfen"],"Looking for other block settings? They've moved to the styles tab.":["Suchst du nach weiteren Block-Einstellungen? Sie wurden in den Stile-Tab verschoben."],"Format tools":["Formatierungs-Werkzeuge"],"Currently selected position: %s":["Aktuell ausgew\u00e4hlte Position: %s"],"Position":["Position"],"The block will not move when the page is scrolled.":["Der Block wird nicht verschoben, wenn die Seite gescrollt wird."],"The block will stick to the top of the window instead of scrolling.":["Der Block wird oben am Kopf des Fensters gehalten statt zu scrollen."],"Paste styles":["Stile einf\u00fcgen"],"Copy styles":["Stile kopieren"],"Pasted styles to %d blocks.":["Die Stile wurden in %d Bl\u00f6cke eingef\u00fcgt."],"Pasted styles to %s.":["Die Stile wurden in %s eingef\u00fcgt."],"Unable to paste styles. Block styles couldn't be found within the copied content.":["Die Stile k\u00f6nnen nicht eingef\u00fcgt werden. Die Block-Stile konnten im kopierten Inhalt nicht gefunden werden."],"Unable to paste styles. Please allow browser clipboard permissions before continuing.":["Die Stile konnten nicht eingef\u00fcgt werden. Bitte aktiviere die Berechtigungen f\u00fcr die Nutzung der Browser-Zwischenablage, bevor du fortf\u00e4hrst."],"Unable to paste styles. This feature is only available on secure (https) sites in supporting browsers.":["Die Stile k\u00f6nnen nicht eingef\u00fcgt werden. Diese Funktion ist nur auf sicheren (https) Websites in unterst\u00fctzenden Browsern verf\u00fcgbar."],"Media categories":["Medienkategorien"],"Media List":["Medienliste"],"Image inserted.":["Das Bild wurde eingef\u00fcgt."],"Image uploaded and inserted.":["Das Bild wurde hochgeladen und eingef\u00fcgt."],"External images can be removed by the external provider without warning and could even have legal compliance issues related to privacy legislation.":["Externe Bilder k\u00f6nnen vom externen Providern ohne Vorwarnung entfernt werden und k\u00f6nnten sogar rechtliche Probleme im Zusammenhang mit der Einhaltung von Datenschutzbestimmungen mit sich bringen."],"This image cannot be uploaded to your Media Library, but it can still be inserted as an external image.":["Dieses Bild kann nicht in deine Mediathek hochgeladen werden, aber es kann trotzdem als externes Bild eingef\u00fcgt werden."],"Insert external image":["Ein externes Bild einf\u00fcgen"],"Report %s":["%s melden"],"Block pattern categories":["Kategorien der Block-Vorlagen"],"Pattern":["Vorlage"],"Go to parent Navigation block":["Zum \u00fcbergeordneten Navigations-Block wechseln"],"Stretch items":["Elemente strecken"],"Block vertical alignment setting\u0004Space between":["Zwischenraum"],"Block vertical alignment setting\u0004Stretch to fill":["Zum F\u00fcllen strecken"],"Fixed":["Festgelegt"],"Fit":["Anpassen"],"Fit contents.":["Inhalte anpassen."],"Specify a fixed height.":["Eine feste H\u00f6he vorgeben."],"Specify a fixed width.":["Eine feste Breite vorgeben."],"Stretch to fill available space.":["Strecken, um den verf\u00fcgbaren Platz zu f\u00fcllen."],"Min. height":["Mindesth\u00f6he"],"Move %1$d blocks from position %2$d left by one place":["%1$d Bl\u00f6cke von Position %2$d um einen Platz nach links verschieben"],"Move %1$d blocks from position %2$d down by one place":["%1$d Bl\u00f6cke von Position %2$d um einen Platz nach unten verschieben"],"Now":["Jetzt"],"View options":["Optionen anzeigen"],"short date format without the year\u0004M j":["j. M."],"Modify":["\u00c4ndern"],"Nested blocks will fill the width of this container. Toggle to constrain.":["Verschachtelte Bl\u00f6cke f\u00fcllen die Breite dieses Containers aus. Hier umschalten, um sie zu begrenzen."],"Nested blocks use content width with options for full and wide widths.":["Verschachtelte Bl\u00f6cke verwenden die Breite des Inhalts mit Optionen f\u00fcr volle und weite Breiten."],"Inner blocks use content width":["Die inneren Bl\u00f6cke verwenden die Breite des Inhalts"],"Font":["Schrift"],"Copy block":["Block kopieren","Bl\u00f6cke kopieren"],"Copy blocks":["Bl\u00f6cke kopieren"],"Apply to all blocks inside":["Innerhalb aller Bl\u00f6cke anwenden"],"Restrict editing":["Bearbeitung einschr\u00e4nken"],"Blocks cannot be moved right as they are already are at the rightmost position":["Die Bl\u00f6cke k\u00f6nnen nicht nach rechts verschoben werden, da sie bereits an der \u00e4u\u00dfersten rechten Position sind"],"Blocks cannot be moved left as they are already are at the leftmost position":["Die Bl\u00f6cke k\u00f6nnen nicht nach links verschoben werden, da sie bereits an der \u00e4u\u00dfersten linken Position sind"],"All blocks are selected, and cannot be moved":["Alle Bl\u00f6cke sind ausgew\u00e4hlt und k\u00f6nnen nicht verschoben werden"],"Constrained":["Eingeschr\u00e4nkt"],"Spacing Control":["Abstandskontrolle"],"Custom (%s)":["Individuell (%s)"],"All sides":["Alle Seiten"],"You are currently in zoom-out mode.":["Der Verkleinerungsmodus ist derzeit aktiv."],"Link sides":["Seiten verlinken"],"Unlink sides":["Links zu den Seiten entfernen"],"Use featured image":["Beitragsbild verwenden"],"Delete selection.":["Auswahl l\u00f6schen."],"Link is empty":["Der Link ist leer"],"https:\/\/wordpress.org\/support\/article\/formatting-date-and-time\/":["https:\/\/wordpress.org\/support\/article\/formatting-date-and-time\/"],"Enter a date or time <Link>format string<\/Link>.":["Gib eine Datums- oder Zeit-<Link>Format-Zeichenfolge<\/Link> ein."],"Custom format":["Individuelles Format"],"Choose a format":["W\u00e4hle ein Format"],"Enter your own date format":["Gib dein eigenes Datumsformat ein"],"long date format\u0004F j, Y":["j. F Y"],"medium date format with time\u0004M j, Y g:i A":["j. M. Y G:i"],"medium date format\u0004M j, Y":["j. M. Y"],"short date format with time\u0004n\/j\/Y g:i A":["j.n.Y G:i"],"short date format\u0004n\/j\/Y":["j.n.Y"],"Default format":["Standardformat"],"Date format":["Datumsformat"],"Transform to %s":["In %s umwandeln"],"%s blocks deselected.":["%s Bl\u00f6cke wurden abgew\u00e4hlt."],"%s deselected.":["%s wurde abgew\u00e4hlt."],"Options for %s block":["Optionen f\u00fcr Block %s"],"%s link":["%s-Link"],"%s link (locked)":["%s-Link (gesperrt)"],"Transparent text may be hard for people to read.":["Transparenter Text kann f\u00fcr Menschen schwer zu lesen sein."],"verb\u0004Stack":["Stapeln"],"single horizontal line\u0004Row":["Zeile"],"Unlock %s":["%s freischalten"],"Select parent block (%s)":["\u00dcbergeordneten Block (%s) ausw\u00e4hlen"],"Lock":["Sperren"],"Unlock":["Freischalten"],"Prevent removal":["Entfernen verhindern"],"Disable movement":["Bewegen deaktivieren"],"Lock all":["Alle sperren"],"Choose specific attributes to restrict or lock all available options.":["W\u00e4hle bestimmte Eigenschaften, um alle verf\u00fcgbaren Optionen einzuschr\u00e4nken oder zu sperren."],"Lock %s":["%s sperren"],"Add default block":["Standard-Block hinzuf\u00fcgen"],"Add pattern":["Vorlage hinzuf\u00fcgen"],"Alignment option\u0004None":["Keine"],"Vertical alignment":["Vertikale Ausrichtung"],"Align items bottom":["Elemente unten ausrichten"],"Align items center":["Elemente mittig ausrichten"],"Align items top":["Elemente oben ausrichten"],"Unwrap":["Unwrap"],"font weight\u0004Black":["Schwarz"],"font weight\u0004Extra Bold":["Extrafett"],"font weight\u0004Bold":["Fett"],"font weight\u0004Semi Bold":["Halbfett"],"font weight\u0004Medium":["Medium"],"font weight\u0004Regular":["Normal"],"font weight\u0004Light":["Leicht"],"font weight\u0004Extra Light":["Extraleicht"],"font weight\u0004Thin":["D\u00fcnn"],"font style\u0004Italic":["Kursiv"],"font style\u0004Regular":["Normal"],"Set custom size":["Individuelle Gr\u00f6\u00dfe festlegen"],"Use size preset":["Voreingestellte Gr\u00f6\u00dfe verwenden"],"link color":["Linkfarbe"],"Navigate to the previous view":["Zur vorherigen Ansicht navigieren"],"Transform":["Transformieren"],"%1$d pattern found for \"%2$s\"":["%1$d Vorlage wurde f\u00fcr \u201e%2$s\u201c gefunden","%1$d Vorlagen wurden f\u00fcr \u201e%2$s\u201c gefunden"],"Explore all patterns":["Alle Vorlagen erkunden"],"Block spacing":["Block-Abst\u00e4nde"],"Letter spacing":["Zeichenabstand"],"https:\/\/wordpress.org\/support\/article\/page-jumps\/":["https:\/\/wordpress.org\/support\/article\/page-jumps\/"],"Radius":["Radius"],"Link radii":["radii verlinken"],"Unlink radii":["radii-Links entfernen"],"Bottom right":["Unten rechts"],"Bottom left":["Unten links"],"Top right":["Oben rechts"],"Top left":["Oben links"],"Max %s wide":["Max. %s breit"],"Flow":["Flow"],"Orientation":["Richtung"],"Allow to wrap to multiple lines":["Zeilenumbruch auf mehrere Zeilen erlauben"],"Justification":["Anordnung"],"Flex":["Flex"],"Currently selected font appearance: %s":["Aktuell ausgew\u00e4hltes Schrift-Design: %s"],"Currently selected font style: %s":["Aktuell ausgew\u00e4hlter Schriftstil: %s"],"Currently selected font weight: %s":["Aktuell ausgew\u00e4hlte Schriftst\u00e4rke: %s"],"No selected font appearance":["Es wurde kein Schrift-Design ausgew\u00e4hlt"],"Create a two-tone color effect without losing your original image.":["Erstelle einen Duotone-Farbeffekt, ohne dein Originalbild zu verlieren."],"Remove %s":["%s entfernen"],"Displays more block tools":["Zeigt weitere Block-Werkzeuge an"],"Indicates this palette is created by the user.\u0004Custom":["Individuell"],"Indicates this palette comes from the theme.\u0004Custom":["Individuell"],"Indicates this palette comes from WordPress.\u0004Default":["Standard"],"Indicates this palette comes from the theme.\u0004Theme":["Theme"],"Tools provide different interactions for selecting, navigating, and editing blocks. Toggle between select and edit by pressing Escape and Enter.":["Werkzeuge bieten unterschiedliche Interaktionen zum Ausw\u00e4hlen, Navigieren und Bearbeiten von Bl\u00f6cken. Schalte zwischen Ausw\u00e4hlen und Bearbeiten um, indem du Escape und Eingabetaste dr\u00fcckst."],"Space between items":["Abstand zwischen Elementen"],"Justify items right":["Elemente rechts ausrichten"],"Justify items center":["Elemente zentriert ausrichten"],"Justify items left":["Elemente links ausrichten"],"Carousel view":["Karussell-Ansicht"],"Next pattern":["N\u00e4chste Vorlage"],"Previous pattern":["Vorherige Vorlage"],"Choose":["Ausw\u00e4hlen"],"Patterns list":["Vorlagenliste"],"Select %s":["%s ausw\u00e4hlen"],"Type \/ to choose a block":["Tippe \/, um einen Block auszuw\u00e4hlen"],"Search for blocks and patterns":["Suche nach Bl\u00f6cken und Vorlagen"],"Use left and right arrow keys to move through blocks":["Verwende die linke und rechte Pfeiltaste, um durch die Bl\u00f6cke zu navigieren"],"Customize the width for all elements that are assigned to the center or wide columns.":["Passe die Breite aller Elemente an, die mittleren oder breiten Spalten zugewiesen sind."],"Wide":["Weite Breite"],"Layout":["Layout"],"Apply duotone filter":["Duotone-Filter anwenden"],"Duotone":["Duotone"],"Margin":["Au\u00dfenabstand"],"Vertical":["Vertikal"],"Horizontal":["Horizontal"],"Change items justification":["Ausrichtung der Elemente \u00e4ndern"],"Manage Reusable blocks":["Wiederverwendbare Bl\u00f6cke verwalten"],"Editor canvas":["Editor-Arbeitsfl\u00e4che"],"Block vertical alignment setting\u0004Align bottom":["Unten ausrichten"],"Block vertical alignment setting\u0004Align middle":["Mittig ausrichten"],"Block vertical alignment setting\u0004Align top":["Oben ausrichten"],"Transform to variation":["In Variation umwandeln"],"More":["Mehr"],"Drag":["Ziehen"],"Block Patterns":["Block-Vorlagen"],"Toggle full height":["Auf volle H\u00f6he umschalten"],"Font style":["Schriftstil"],"Font weight":["Schriftst\u00e4rke"],"Letter case":["Schreibweise"],"Capitalize":["Gro\u00dfschreibung"],"Lowercase":["Kleinbuchstaben"],"Uppercase":["Gro\u00dfbuchstaben"],"Decoration":["Dekoration"],"Add an anchor":["Einen Anker hinzuf\u00fcgen"],"Appearance":["Design"],"Create: <mark>%s<\/mark>":["Erstellen: <mark>%s<\/mark>"],"Search for patterns":["Nach Vorlagen suchen"],"Block pattern \"%s\" inserted.":["Block-Vorlage \u201e%s\u201c eingef\u00fcgt."],"Remove blocks":["Bl\u00f6cke entfernen"],"Rotate":["Drehen"],"Zoom":["Zoomen"],"Could not edit image. %s":["Das Bild konnte nicht bearbeitet werden. %s"],"2:3":["2:3"],"3:4":["3:4"],"9:16":["9:16"],"10:16":["10:16"],"Portrait":["Hochformat"],"3:2":["3:2"],"4:3":["4:3"],"16:9":["16:9"],"16:10":["16:10"],"Landscape":["Querformat"],"Aspect Ratio":["Seitenverh\u00e4ltnis"],"Move the selected block(s) down.":["Ausgew\u00e4hlte(n) Block\/Bl\u00f6cke nach unten verschieben."],"Move the selected block(s) up.":["Ausgew\u00e4hlte(n) Block\/Bl\u00f6cke nach oben verschieben."],"Mobile":["Mobil"],"Tablet":["Tablet"],"Desktop":["Desktop"],"Current media URL:":["Aktuelle Medien-URL:"],"Creating":["Erstellen"],"An unknown error occurred during creation. Please try again.":["W\u00e4hrend der Erstellung ist ein unbekannter Fehler aufgetreten. Bitte versuche es erneut."],"Image size presets":["Voreinstellungen f\u00fcr die Bildgr\u00f6\u00dfe"],"Block variations":["Block-Variationen"],"Block navigation structure":["Block-Navigationsstruktur"],"Block %1$d of %2$d, Level %3$d":["Block %1$d von %2$d, Ebene %3$d"],"Move to":["Verschieben nach"],"Moved %d block to clipboard.":["%d Block in die Zwischenablage verschoben.","%d Bl\u00f6cke in die Zwischenablage verschoben."],"Copied %d block to clipboard.":["%d Block in die Zwischenablage kopiert.","%d Bl\u00f6cke in die Zwischenablage kopiert."],"Moved \"%s\" to clipboard.":["\u201e%s\u201c in die Zwischenablage verschoben."],"Copied \"%s\" to clipboard.":["\u201e%s\u201c in die Zwischenablage kopiert."],"Browse all":["Alle durchsuchen"],"Browse all. This will open the main inserter panel in the editor toolbar.":["Alles durchsuchen. Dies wird das Haupt-Inserter-Bedienfeld in der Editor-Werkzeugleiste \u00f6ffnen."],"A tip for using the block editor":["Ein Tipp zur Verwendung des Block-Editors"],"Patterns":["Vorlagen"],"%d block added.":["%d Block hinzugef\u00fcgt.","%d Bl\u00f6cke hinzugef\u00fcgt."],"Use the Tab key and Arrow keys to choose new block location. Use Left and Right Arrow keys to move between nesting levels. Once location is selected press Enter or Space to move the block.":["Benutze die Tab-Taste und die Pfeiltasten, um eine neue Block-Position auszuw\u00e4hlen. Benutze die Pfeiltasten links und rechts, um die Verschachtelungsebene zu wechseln. Sobald eine Position ausgew\u00e4hlt ist, dr\u00fccke Enter oder die Leertaste, um den Block zu verschieben."],"You are currently in navigation mode. Navigate blocks using the Tab key and Arrow keys. Use Left and Right Arrow keys to move between nesting levels. To exit navigation mode and edit the selected block, press Enter.":["Du bist aktuell im Navigationsmodus. Navigiere durch die Bl\u00f6cke mithilfe der Tab-Taste und der Pfeiltasten. Benutze die Pfeiltasten links und rechts, um die Verschachtelungsebene zu wechseln. Um den Navigationsmodus zu verlassen und den ausgew\u00e4hlten Block zu bearbeiten, dr\u00fccke Enter."],"Change a block's type by pressing the block icon on the toolbar.":["Wechsel den Typ eines Blocks, indem du auf das Blocksymbol in der Werkzeugleiste dr\u00fcckst."],"Drag files into the editor to automatically insert media blocks.":["Ziehe Dateien in den Editor, um automatisch Medienbl\u00f6cke einzuf\u00fcgen."],"Outdent a list by pressing <kbd>backspace<\/kbd> at the beginning of a line.":["R\u00fccke eine Liste aus, indem du die <kbd>R\u00fccktaste<\/kbd> am Anfang einer Zeile dr\u00fcckst."],"Indent a list by pressing <kbd>space<\/kbd> at the beginning of a line.":["R\u00fccke eine Liste ein, indem du die <kbd>Leertaste<\/kbd> am Anfang einer Zeile dr\u00fcckst."],"Open Colors Selector":["Farbauswahl \u00f6ffnen"],"Change matrix alignment":["Matrixausrichtung \u00e4ndern"],"Padding":["Innenabstand"],"Typography":["Typografie"],"Line height":["Zeilenh\u00f6he"],"Block %1$s is at the beginning of the content and can\u2019t be moved left":["Der %1$s-Block befindet sich am Anfang des Inhalts und kann nicht nach links verschoben werden"],"Block %1$s is at the beginning of the content and can\u2019t be moved up":["Der %1$s-Block befindet am Anfang des Inhalts und kann nicht nach oben verschoben werden"],"Block %1$s is at the end of the content and can\u2019t be moved left":["Der %1$s-Block befindet sich am Ende des Inhalts und kann nicht nach links verschoben werden"],"Block %1$s is at the end of the content and can\u2019t be moved down":["Der %1$s-Block befindet sich am Ende des Inhalts und kann nicht nach unten verschoben werden"],"Move %1$s block from position %2$d right to position %3$d":["Block %1$s von Position %2$d nach rechts auf Position %3$d verschieben"],"Move %1$s block from position %2$d left to position %3$d":["Block %1$s von Position %2$d nach links auf Position %3$d verschieben"],"Toggle between using the same value for all screen sizes or using a unique value per screen size.":["Wechsel zwischen der Verwendung desselben Wertes f\u00fcr alle Bildschirmgr\u00f6\u00dfen oder der Verwendung eines eigenen Wertes pro Bildschirmgr\u00f6\u00dfe."],"Use the same %s on all screensizes.":["Die gleichen %s f\u00fcr alle Bildschirmgr\u00f6\u00dfen verwenden."],"Large screens":["Gro\u00dfe Bildschirme"],"Medium screens":["Mittlere Bildschirme"],"Small screens":["Kleine Bildschirme"],"Text labelling a interface as controlling a given layout property (eg: margin) for a given screen size.\u0004Controls the %1$s property for %2$s viewports.":["Steuert die Eigenschaft %1$s f\u00fcr %2$s-Viewports."],"Open Media Library":["Mediathek \u00f6ffnen"],"The media file has been replaced":["Die Mediendatei wurde ersetzt"],"Currently selected":["Aktuell ausgew\u00e4hlt"],"Recently updated":["K\u00fcrzlich aktualisiert"],"Search or type url":["Suchen oder URL eingeben"],"Press ENTER to add this link":["Dr\u00fccke ENTER, um diesen Link hinzuzuf\u00fcgen"],"Currently selected link settings":["Aktuell ausgew\u00e4hlte Link-Einstellungen"],"Image size":["Bildgr\u00f6\u00dfe"],"Select a variation to start with.":["W\u00e4hle die Variante, mit der du beginnen m\u00f6chtest."],"Choose variation":["Variante ausw\u00e4hlen"],"Generic label for block inserter button\u0004Add block":["Block hinzuf\u00fcgen"],"directly add the only allowed block\u0004Add %s":["%s hinzuf\u00fcgen"],"%s block added":["Block %s hinzugef\u00fcgt"],"Multiple selected blocks":["Mehrere ausgew\u00e4hlte Bl\u00f6cke"],"You are currently in edit mode. To return to the navigation mode, press Escape.":["Du befindest dich im Bearbeitungsmodus. Um zum Navigationsmodus zur\u00fcckzukehren, dr\u00fccke Escape."],"Midnight":["Mitternacht"],"Electric grass":["Elektrisches Gras"],"Pale ocean":["Blasser Ozean"],"Luminous dusk":["Leuchtende Abendd\u00e4mmerung"],"Blush bordeaux":["Bordeauxrot"],"Blush light purple":["R\u00f6tliches Hellviolett"],"Cool to warm spectrum":["K\u00fchles bis warmes Spektrum"],"Very light gray to cyan bluish gray":["Sehr helles Grau bis bl\u00e4uliches Grau"],"Luminous vivid orange to vivid red":["Leuchtend lebendiges Orange bis lebendiges Rot"],"Luminous vivid amber to luminous vivid orange":["Leuchtend lebendiger Bernstein bis leuchtend lebendiges Orange"],"Light green cyan to vivid green cyan":["Hellgr\u00fcnes Cyan bis lebendig gr\u00fcnes Cyan"],"Vivid cyan blue to vivid purple":["Kr\u00e4ftiges Cyanblau bis kr\u00e4ftiges Lila"],"Block breadcrumb":["Block-Breadcrumbs"],"No Preview Available.":["Vorschau ist nicht verf\u00fcgbar."],"Grid view":["Rasteransicht"],"List view":["Listenansicht"],"Move right":["Nach rechts verschieben"],"Move left":["Nach links verschieben"],"Fill":["F\u00fcllen"],"Link rel":["Link rel"],"Border radius":["Eckenradius"],"Open in new tab":["In einem neuen Tab \u00f6ffnen"],"Separate multiple classes with spaces.":["Trenne mehrere Klassen durch Leerzeichen."],"Learn more about anchors":["Mehr \u00fcber Anker erfahren"],"Enter a word or two \u2014 without spaces \u2014 to make a unique web address just for this block, called an \u201canchor.\u201d Then, you\u2019ll be able to link directly to this section of your page.":["Gib ein oder zwei W\u00f6rter \u2013 ohne Leerzeichen \u2013 ein, um eine eindeutige Webadresse nur f\u00fcr diesen Block zu erstellen, die als \u201eAnker\u201c bezeichnet wird. Dann kannst du direkt zu diesem Abschnitt deiner Seite verlinken."],"Default Style":["Standard-Stil"],"Upload a video file, pick one from your media library, or add one with a URL.":["Lade eine Videodatei hoch, w\u00e4hle eine aus deiner Mediathek oder f\u00fcge eine mit einer URL hinzu."],"Upload an image file, pick one from your media library, or add one with a URL.":["Lade eine Bilddatei hoch, w\u00e4hle eine aus deiner Mediathek oder f\u00fcge eine mit einer URL hinzu."],"Upload an audio file, pick one from your media library, or add one with a URL.":["Lade eine Audiodatei hoch, w\u00e4hle eine aus deiner Mediathek oder f\u00fcge eine mit einer URL hinzu."],"Upload a media file or pick one from your media library.":["Lade eine Mediendatei hoch, w\u00e4hle eine aus deiner Mediathek oder f\u00fcge eine mit einer URL hinzu."],"Skip":["\u00dcberspringen"],"This color combination may be hard for people to read.":["Diese Farbkombination ist unter Umst\u00e4nden f\u00fcr manche Menschen schwer lesbar."],"Add a block":["Einen Block hinzuf\u00fcgen"],"While writing, you can press <kbd>\/<\/kbd> to quickly insert new blocks.":["W\u00e4hrend des Schreibens kannst du \u201e\/\u201c dr\u00fccken, um schnell neue Bl\u00f6cke einzuf\u00fcgen."],"Vivid purple":["Kr\u00e4ftiges Violett"],"Block vertical alignment setting label\u0004Change vertical alignment":["Vertikale Ausrichtung \u00e4ndern"],"Ungrouping blocks from within a Group block back into individual blocks within the Editor \u0004Ungroup":["Gruppierung aufheben"],"verb\u0004Group":["Gruppieren"],"%s: Change block type or style":["%s: Block-Typ oder -Stil \u00e4ndern"],"block style\u0004Default":["Standard"],"Attempt Block Recovery":["Blockwiederherstellung versuchen"],"%d word":["%d Wort","%d W\u00f6rter"],"To edit this block, you need permission to upload media.":["Du ben\u00f6tigst die Berechtigung, Medien hochzuladen, um diesen Block bearbeiten zu k\u00f6nnen."],"Block tools":["Block-Werkzeuge"],"%s block selected.":["%s Block ausgew\u00e4hlt.","%s Bl\u00f6cke ausgew\u00e4hlt."],"Align text right":["Text rechts ausrichten"],"Align text center":["Text zentriert ausrichten"],"Align text left":["Text links ausrichten"],"Image dimensions":["Bildabmessungen"],"Heading settings":["\u00dcberschrift-Einstellungen"],"Reusable blocks":["Wiederverwendbare Bl\u00f6cke"],"Document":["Dokument"],"%d block":["%d Block","%d Bl\u00f6cke"],"Insert a new block after the selected block(s).":["Neuen Block nach dem\/den ausgew\u00e4hlten Block\/Bl\u00f6cken einf\u00fcgen."],"Insert a new block before the selected block(s).":["Neuen Block vor dem\/den ausgew\u00e4hlten Block\/Bl\u00f6cken einf\u00fcgen."],"Remove the selected block(s).":["Ausgew\u00e4hlte(n) Block\/Bl\u00f6cke entfernen."],"Duplicate the selected block(s).":["Ausgew\u00e4hlte(n) Block\/Bl\u00f6cke duplizieren."],"Select all text when typing. Press again to select all blocks.":["W\u00e4hle bei der Eingabe den gesamten Text aus. Dr\u00fccke erneut, um alle Bl\u00f6cke auszuw\u00e4hlen."],"Navigate to the nearest toolbar.":["Zur n\u00e4chsten Werkzeugleiste navigieren."],"Options":["Ansicht anpassen"],"font size name\u0004Huge":["Riesig"],"font size name\u0004Large":["Gro\u00df"],"font size name\u0004Medium":["Mittel"],"font size name\u0004Small":["Klein"],"Cyan bluish gray":["Cyan-bl\u00e4uliches Grau"],"Vivid cyan blue":["Lebhaftes Cyanblau"],"Pale cyan blue":["Helles Cyanblau"],"Vivid green cyan":["Lebhaftes Cyangr\u00fcn"],"Light green cyan":["Helles Cyangr\u00fcn"],"Luminous vivid amber":["Kr\u00e4ftiges Gelb"],"Luminous vivid orange":["Leuchtendes Orange"],"Vivid red":["Klares Rot"],"Pale pink":["Helles Rosa"],"Additional CSS class(es)":["Zus\u00e4tzliche CSS-Klasse(n)"],"HTML anchor":["HTML-Anker"],"Link settings":["Link-Einstellungen"],"Skip to the selected block":["Zum ausgew\u00e4hlten Block wechseln"],"Paste or type URL":["URL einf\u00fcgen oder eingeben"],"Reusable":["Wiederverwendbar"],"blocks\u0004Most used":["Meistgenutzt"],"%d result found.":["%d Ergebnis gefunden.","%d Ergebnisse gefunden."],"This color combination may be hard for people to read. Try using a brighter background color and\/or a darker %s.":["Diese Farbkombination ist unter Umst\u00e4nden f\u00fcr manche Menschen schwer lesbar. W\u00e4hle eine hellere Hintergrundfarbe und\/oder eine dunklere Textfarbe %s."],"This color combination may be hard for people to read. Try using a darker background color and\/or a brighter %s.":["Diese Farbkombination ist unter Umst\u00e4nden f\u00fcr manche Menschen schwer lesbar. W\u00e4hle eine dunklere Hintergrundfarbe und\/oder eine hellere Textfarbe %s."],"Transform to":["Umwandeln in"],"Change type of %d block":["Typ des %d Blocks \u00e4ndern","Typ der %d Bl\u00f6cke \u00e4ndern"],"Insert after":["Danach einf\u00fcgen"],"Insert before":["Davor einf\u00fcgen"],"Duplicate":["Duplizieren"],"More options":["Mehr Optionen"],"Edit visually":["Visuell bearbeiten"],"Edit as HTML":["Als HTML bearbeiten"],"Move %1$d blocks from position %2$d right by one place":["%1$d Bl\u00f6cke von Position %2$d um einen Platz nach rechts verschieben"],"Move %1$d blocks from position %2$d up by one place":["%1$d Bl\u00f6cke von Position %2$d um einen Platz nach oben verschieben"],"Blocks cannot be moved down as they are already at the bottom":["Bl\u00f6cke k\u00f6nnen nicht nach unten verschoben werden, wenn sie bereits unten sind"],"Blocks cannot be moved up as they are already at the top":["Bl\u00f6cke k\u00f6nnen nicht nach oben verschoben werden, wenn sie bereits oben sind"],"Block %1$s is at the beginning of the content and can\u2019t be moved right":["Der %1$s-Block befindet sich am Anfang des Inhalts und kann nicht nach rechts verschoben werden"],"Move %1$s block from position %2$d up to position %3$d":["Block %1$s von Position %2$d nach oben zur Position %3$d verschieben"],"Block %1$s is at the end of the content and can\u2019t be moved right":["Der %1$s-Block befindet sich am Ende des Inhalts und kann nicht nach rechts verschoben werden"],"Move %1$s block from position %2$d down to position %3$d":["Block %1$s von Position %2$d nach unten zur Position %3$d verschieben"],"Block %s is the only block, and cannot be moved":["Block %s ist der einzige Block und kann nicht verschoben werden"],"Block: %s":["Block: %s"],"This block contains unexpected or invalid content.":["Dieser Block enth\u00e4lt unerwarteten oder ung\u00fcltigen Inhalt."],"imperative verb\u0004Resolve":["L\u00f6sen"],"Convert to Blocks":["In Bl\u00f6cke umwandeln"],"Resolve Block":["Block l\u00f6sen"],"Convert to Classic Block":["In Block konvertieren"],"This block has encountered an error and cannot be previewed.":["In diesem Block ist ein Fehler aufgetreten und eine Vorschau ist nicht m\u00f6glich."],"No block selected.":["Kein Block ausgew\u00e4hlt."],"After Conversion":["Nach Umwandlung"],"Convert to HTML":["In HTML umwandeln"],"Current":["Aktuell"],"Change alignment":["Ausrichtung \u00e4ndern"],"Full width":["Gesamte Breite"],"Wide width":["Weite Breite"],"Change text alignment":["Textausrichtung \u00e4ndern"],"Reset":["Zur\u00fccksetzen"],"font size name\u0004Normal":["Normal"],"No results.":["Keine Ergebnisse."],"%d result found, use up and down arrow keys to navigate.":["%d Ergebnis gefunden, benutze die Pfeile nach oben oder unten zum Navigieren.","%d Ergebnisse gefunden, benutze die Pfeile nach oben oder unten zum Navigieren."],"Blocks":["Bl\u00f6cke"],"Original":["Original"],"Link selected.":["Link ausgew\u00e4hlt."],"Paste URL or type to search":["URL einf\u00fcgen oder zum Suchen tippen"],"%1$s %2$s":["%1$s %2$s"],"Color":["Farbe"],"Link CSS Class":["CSS-Klasse des Links"],"Back":["Zur\u00fcck"],"Tools":["Werkzeuge"],"Replace":["Ersetzen"],"Align left":["Linksb\u00fcndig"],"Align center":["Zentrieren"],"Align right":["Rechtsb\u00fcndig"],"Move up":["Nach oben"],"Move down":["Nach unten"],"Not set":["Nicht gesetzt"],"Insert from URL":["Von URL einf\u00fcgen"],"Video":["Video"],"Audio":["Audio"],"Large":["Gro\u00df"],"Media Library":["Mediathek"],"Media File":["Mediendatei"],"Attachment Page":["Anhang-Seite"],"Clear selection.":["Auswahl l\u00f6schen."],"text color":["Textfarbe"],"Mixed":["Gemischt"],"Upload":["Hochladen"],"Styles":["Stile"],"Link":["Link"],"Square":["Quadrat"],"Custom":["Individuell"],"Image":["Bild"],"Remove link":["Link entfernen"],"Insert link":["Link einf\u00fcgen"],"Background":["Hintergrund"],"Align":["Ausrichtung"],"Bottom":["Unten"],"Top":["Oben"],"Dimensions":["Gr\u00f6\u00dfe"],"Border":["R\u00e4nder"],"Unlink":["Link entfernen"],"Align text":["Text ausrichten"],"Strikethrough":["Durchgestrichen"],"Underline":["Unterstreichen"],"Font family":["Schriftfamilie"],"Font size":["Schriftgr\u00f6\u00dfe"],"Insert":["Einf\u00fcgen"],"Text":["Text"],"Search results for \"%s\"":["Suchergebnisse f\u00fcr \u201e%s\u201c"],"No results found.":["Es wurden keine Ergebnisse gefunden, die deinen Suchkriterien entsprechen."],"All":["Alle"],"Default":["Standard"],"Height":["H\u00f6he"],"Edit link":["Link bearbeiten"],"Width":["Breite"],"White":["Wei\u00df"],"Black":["Schwarz"],"Select":["Ausw\u00e4hlen"],"Close":["Schlie\u00dfen"],"Search":["Suchen"],"Media":["Medien"],"Full Size":["Vollst\u00e4ndige Gr\u00f6\u00dfe"],"Medium":["Mittel"],"Right":["Rechts"],"Left":["Links"],"Thumbnail":["Vorschaubild"],"Content":["Inhalt"],"Cancel":["Abbrechen"],"Preview":["Vorschau"],"Submit":["Senden"],"Done":["Fertig"],"None":["Keine"],"Advanced":["Erweitert"],"Publish":["Ver\u00f6ffentlichen"],"Apply":["\u00dcbernehmen"],"Edit":["Bearbeiten"],"URL":["URL"]}},"comment":{"reference":"wp-includes\/js\/dist\/block-editor.js"}} );
+</script>
+<script type='text/javascript' src='https://textile-connect.com/wp-includes/js/dist/block-editor.min.js?ver=43e40e04f77d598ede94' id='wp-block-editor-js'></script>
+<script type='text/javascript' id='ht-contactform-blocks-js-extra'>
+/* <![CDATA[ */
+var htcontactdata = {"pluginDirPath":"\/homepages\/42\/d4297444572\/htdocs\/wordpress\/wp-content\/plugins\/ht-contactform\/","pluginDirUrl":"https:\/\/textile-connect.com\/wp-content\/plugins\/ht-contactform\/","security":"bd62f43c56"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://textile-connect.com/wp-content/plugins/ht-contactform/blocks/build/htcontactform-block.js?ver=bf4d4eee7c194b718886ada46f475c19' id='ht-contactform-blocks-js'></script>
+<script type='text/javascript' src='https://textile-connect.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.7.7' id='swv-js'></script>
+<script type='text/javascript' id='contact-form-7-js-extra'>
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/textile-connect.com\/wp-json\/","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://textile-connect.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.7.7' id='contact-form-7-js'></script>
+<script type='text/javascript' id='extcf7-conditional-field-script-js-extra'>
+/* <![CDATA[ */
+var extcf7_conditional_settings = {"animitation_status":"on","animitation_in_time":"250","animitation_out_time":"250","elementor_editor_mode":"false"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://textile-connect.com/wp-content/plugins/extensions-for-cf7/assets/js/conditional-field.js?ver=2.0.9' id='extcf7-conditional-field-script-js'></script>
+<script type='text/javascript' id='extcf7-redirect-script-js-extra'>
+/* <![CDATA[ */
+var extcf7_redirection_settings = {"redirection_delay":"200"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://textile-connect.com/wp-content/plugins/extensions-for-cf7/assets/js/redirect.js?ver=2.0.9' id='extcf7-redirect-script-js'></script>
+<script type='text/javascript' src='https://textile-connect.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.7.8.0' id='jquery-blockui-js'></script>
+<script type='text/javascript' id='wc-add-to-cart-js-extra'>
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"Warenkorb anzeigen","cart_url":"https:\/\/textile-connect.com\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://textile-connect.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=7.8.0' id='wc-add-to-cart-js'></script>
+<script type='text/javascript' src='https://textile-connect.com/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.7.8.0' id='js-cookie-js'></script>
+<script type='text/javascript' id='woocommerce-js-extra'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://textile-connect.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=7.8.0' id='woocommerce-js'></script>
+<script type='text/javascript' src='https://textile-connect.com/wp-content/plugins/royal-elementor-addons/assets/js/lib/particles/particles.js?ver=3.0.6' id='wpr-particles-js'></script>
+<script type='text/javascript' src='https://textile-connect.com/wp-content/plugins/royal-elementor-addons/assets/js/lib/jarallax/jarallax.min.js?ver=1.12.7' id='wpr-jarallax-js'></script>
+<script type='text/javascript' src='https://textile-connect.com/wp-content/plugins/royal-elementor-addons/assets/js/lib/parallax/parallax.min.js?ver=1.0' id='wpr-parallax-hover-js'></script>
+<script type='text/javascript' src='https://www.google.com/recaptcha/api.js?render=' id='google-recaptcha-js'></script>
+<script type='text/javascript' id='neve-script-js-extra'>
+/* <![CDATA[ */
+var NeveProperties = {"ajaxurl":"https:\/\/textile-connect.com\/wp-admin\/admin-ajax.php","nonce":"e2a6bc7e49","isRTL":"","isCustomize":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://textile-connect.com/wp-content/themes/neve/assets/js/build/modern/frontend.js?ver=3.6.1' id='neve-script-js' async></script>
+<script type='text/javascript' id='neve-script-js-after'>
+	var html = document.documentElement;
+	var theme = html.getAttribute('data-neve-theme') || 'light';
+	var variants = {"logo":{"light":{"src":"https:\/\/textile-connect.com\/wp-content\/uploads\/2023\/06\/cropped-Logo-Full.jpg","srcset":false,"sizes":"(max-width: 200px) 100vw, 200px"},"dark":{"src":"https:\/\/textile-connect.com\/wp-content\/uploads\/2023\/06\/cropped-Logo-Full.jpg","srcset":false,"sizes":"(max-width: 200px) 100vw, 200px"},"same":true}};
+
+	function setCurrentTheme( theme ) {
+		var pictures = document.getElementsByClassName( 'neve-site-logo' );
+		for(var i = 0; i<pictures.length; i++) {
+			var picture = pictures.item(i);
+			if( ! picture ) {
+				continue;
+			};
+			var fileExt = picture.src.slice((Math.max(0, picture.src.lastIndexOf(".")) || Infinity) + 1);
+			if ( fileExt === 'svg' ) {
+				picture.removeAttribute('width');
+				picture.removeAttribute('height');
+				picture.style = 'width: var(--maxwidth)';
+			}
+			var compId = picture.getAttribute('data-variant');
+			if ( compId && variants[compId] ) {
+				var isConditional = variants[compId]['same'];
+				if ( theme === 'light' || isConditional || variants[compId]['dark']['src'] === false ) {
+					picture.src = variants[compId]['light']['src'];
+					picture.srcset = variants[compId]['light']['srcset'] || '';
+					picture.sizes = variants[compId]['light']['sizes'];
+					continue;
+				};
+				picture.src = variants[compId]['dark']['src'];
+				picture.srcset = variants[compId]['dark']['srcset'] || '';
+				picture.sizes = variants[compId]['dark']['sizes'];
+			};
+		};
+	};
+
+	var observer = new MutationObserver(function(mutations) {
+		mutations.forEach(function(mutation) {
+			if (mutation.type == 'attributes') {
+				theme = html.getAttribute('data-neve-theme');
+				setCurrentTheme(theme);
+			};
+		});
+	});
+
+	observer.observe(html, {
+		attributes: true
+	});
+function toggleAriaClick() { function toggleAriaExpanded(toggle = 'true') { document.querySelectorAll('button.navbar-toggle').forEach(function(el) { if ( el.classList.contains('caret-wrap') ) { return; } el.setAttribute('aria-expanded', 'true' === el.getAttribute('aria-expanded') ? 'false' : toggle); }); } toggleAriaExpanded(); if ( document.body.hasAttribute('data-ftrap-listener') ) { return; } document.body.setAttribute('data-ftrap-listener', 'true'); document.addEventListener('ftrap-end', function() { toggleAriaExpanded('false'); }); }
+</script>
+<script type='text/javascript' src='https://textile-connect.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2' id='jquery-ui-core-js'></script>
+<script type='text/javascript' src='https://textile-connect.com/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.2' id='jquery-ui-mouse-js'></script>
+<script type='text/javascript' src='https://textile-connect.com/wp-includes/js/jquery/ui/draggable.min.js?ver=1.13.2' id='jquery-ui-draggable-js'></script>
+<script type='text/javascript' src='https://textile-connect.com/wp-includes/js/underscore.min.js?ver=1.13.4' id='underscore-js'></script>
+<script type='text/javascript' src='https://textile-connect.com/wp-includes/js/backbone.min.js?ver=1.4.1' id='backbone-js'></script>
+<script type='text/javascript' src='https://textile-connect.com/wp-content/plugins/elementor/assets/lib/backbone/backbone.marionette.min.js?ver=2.4.5.e1' id='backbone-marionette-js'></script>
+<script type='text/javascript' src='https://textile-connect.com/wp-content/plugins/elementor/assets/lib/backbone/backbone.radio.min.js?ver=1.0.4' id='backbone-radio-js'></script>
+<script type='text/javascript' src='https://textile-connect.com/wp-content/plugins/elementor/assets/js/common-modules.min.js?ver=3.14.0' id='elementor-common-modules-js'></script>
+<script type='text/javascript' id='elementor-web-cli-js-before'>
+var elementorWebCliConfig = {"isDebug":false,"urls":{"rest":"https:\/\/textile-connect.com\/wp-json\/","assets":"https:\/\/textile-connect.com\/wp-content\/plugins\/elementor\/assets\/"},"nonce":"e2a6bc7e49","version":"3.14.0"};
+var elementorWebCliConfig = {"isDebug":false,"urls":{"rest":"https:\/\/textile-connect.com\/wp-json\/","assets":"https:\/\/textile-connect.com\/wp-content\/plugins\/elementor\/assets\/"},"nonce":"e2a6bc7e49","version":"3.14.0"};
+</script>
+<script type='text/javascript' src='https://textile-connect.com/wp-content/plugins/elementor/assets/js/web-cli.min.js?ver=3.14.0' id='elementor-web-cli-js'></script>
+<script type='text/javascript' src='https://textile-connect.com/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.9.0' id='elementor-dialog-js'></script>
+<script type='text/javascript' id='wp-api-request-js-extra'>
+/* <![CDATA[ */
+var wpApiSettings = {"root":"https:\/\/textile-connect.com\/wp-json\/","nonce":"e2a6bc7e49","versionString":"wp\/v2\/"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://textile-connect.com/wp-includes/js/api-request.min.js?ver=6.2.2' id='wp-api-request-js'></script>
+<script type='text/javascript' id='elementor-dev-tools-js-before'>
+var elementorDevToolsConfig = {"isDebug":false,"urls":{"assets":"https:\/\/textile-connect.com\/wp-content\/plugins\/elementor\/assets\/"},"deprecation":{"soft_notices":[],"soft_version_count":4,"hard_version_count":8,"current_version":"3.14.0"}};
+var elementorDevToolsConfig = {"isDebug":false,"urls":{"assets":"https:\/\/textile-connect.com\/wp-content\/plugins\/elementor\/assets\/"},"deprecation":{"soft_notices":[],"soft_version_count":4,"hard_version_count":8,"current_version":"3.14.0"}};
+var elementorDevToolsConfig = {"isDebug":false,"urls":{"assets":"https:\/\/textile-connect.com\/wp-content\/plugins\/elementor\/assets\/"},"deprecation":{"soft_notices":[],"soft_version_count":4,"hard_version_count":8,"current_version":"3.14.0"}};
+</script>
+<script type='text/javascript' src='https://textile-connect.com/wp-content/plugins/elementor/assets/js/dev-tools.min.js?ver=3.14.0' id='elementor-dev-tools-js'></script>
+<script type='text/javascript' id='elementor-common-js-translations'>
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "elementor", {"translation-revision-date":"2023-03-29 07:11:38+0000","generator":"GlotPress\/4.0.0-alpha.4","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=2; plural=n != 1;","lang":"de"},"Enable and Import":["Aktivieren und importieren"],"The file exceeds the maximum upload size for this site.":["Die Datei \u00fcberschreitet die maximale Uploadgr\u00f6\u00dfe f\u00fcr diese Website."],"Uploading...":["Hochladen\u2026"],"Enable Unfiltered File Uploads":["Ungefilterte Dateiuploads aktivieren"],"Unable to connect":["Keine Verbindung m\u00f6glich"],"Finder":["Finder"],"Enable":["Aktivieren"],"Cancel":["Abbruch"]}},"comment":{"reference":"assets\/js\/common.js"}} );
+</script>
+<script type='text/javascript' id='elementor-common-js-before'>
+var elementorCommonConfig = {"version":"3.14.0","isRTL":false,"isDebug":false,"isElementorDebug":false,"activeModules":["ajax","finder","connect","event-tracker"],"experimentalFeatures":{"e_dom_optimization":true,"e_optimized_assets_loading":true,"e_optimized_css_loading":true,"a11y_improvements":true,"additional_custom_breakpoints":true,"e_swiper_latest":true,"theme_builder_v2":true,"landing-pages":true,"page-transitions":true,"notes":true,"loop":true,"form-submissions":true,"e_scroll_snap":true},"urls":{"assets":"https:\/\/textile-connect.com\/wp-content\/plugins\/elementor\/assets\/","rest":"https:\/\/textile-connect.com\/wp-json\/"},"filesUpload":{"unfilteredFiles":false},"library_connect":{"is_connected":true,"subscription_plans":[{"label":null,"promotion_url":null,"color":null},{"label":"Pro","promotion_url":"https:\/\/elementor.com\/pro\/?utm_source=template-library&utm_medium=wp-dash&utm_campaign=gopro","color":"#92003B"}],"base_access_level":0,"current_access_level":0},"ajax":{"url":"https:\/\/textile-connect.com\/wp-admin\/admin-ajax.php","nonce":"a9de009318"},"finder":{"data":{"edit":{"title":"Bearbeiten","dynamic":true,"name":"edit"},"general":{"title":"Generell","dynamic":false,"items":{"saved-templates":{"title":"Gespeicherte Templates","icon":"library-save","url":"https:\/\/textile-connect.com\/wp-admin\/edit.php?post_type=elementor_library&tabs_group=library","keywords":["template","section","page","library"]},"system-info":{"title":"System Info","icon":"info-circle-o","url":"https:\/\/textile-connect.com\/wp-admin\/admin.php?page=elementor-system-info","keywords":["system","info","environment","elementor"]},"role-manager":{"title":"Benutzerrollen verwalten","icon":"person","url":"https:\/\/textile-connect.com\/wp-admin\/admin.php?page=elementor-role-manager","keywords":["role","manager","user","elementor"]},"knowledge-base":{"title":"Wissensdatenbank","url":"https:\/\/textile-connect.com\/wp-admin\/admin.php?page=go_knowledge_base_site","keywords":["help","knowledge","docs","elementor"]},"theme-builder":{"title":"Theme Builder","icon":"library-save","url":"https:\/\/textile-connect.com\/wp-admin\/admin.php?page=elementor-app&ver=3.14.0#\/site-editor","keywords":["template","header","footer","single","archive","search","404","library"]},"kit-library":{"title":"Kit Bibliothek","icon":"kit-parts","url":"https:\/\/textile-connect.com\/wp-admin\/admin.php?page=elementor-app&ver=3.14.0#\/kit-library","keywords":["kit library","kit","library","site parts","parts","assets","templates"]},"popups":{"title":"Popups","icon":"library-save","url":"https:\/\/textile-connect.com\/wp-admin\/edit.php?post_type=elementor_library&tabs_group=popup&elementor_library_type=popup","keywords":["template","popup","library"]}},"name":"general"},"create":{"title":"Erstellen","dynamic":false,"items":{"page":{"title":"Neue Seitenvorlage hinzuf\u00fcgen","icon":"plus-circle-o","url":"https:\/\/textile-connect.com\/wp-admin\/edit.php?action=elementor_new_post&post_type=elementor_library&template_type=page&_wpnonce=04ab722650","keywords":["Neue Seitenvorlage hinzuf\u00fcgen","post","page","template","new","create"]},"section":{"title":"Abschnitt hinzuf\u00fcgen","icon":"plus-circle-o","url":"https:\/\/textile-connect.com\/wp-admin\/edit.php?action=elementor_new_post&post_type=elementor_library&_wpnonce=04ab722650&template_type=section","keywords":["Abschnitt hinzuf\u00fcgen","post","page","template","new","create"]},"wp-post":{"title":"Beitrag hinzuf\u00fcgen","icon":"plus-circle-o","url":"https:\/\/textile-connect.com\/wp-admin\/edit.php?action=elementor_new_post&post_type=post&template_type=wp-post&_wpnonce=04ab722650","keywords":["Beitrag hinzuf\u00fcgen","post","page","template","new","create"]},"wp-page":{"title":"Seite hinzuf\u00fcgen","icon":"plus-circle-o","url":"https:\/\/textile-connect.com\/wp-admin\/edit.php?action=elementor_new_post&post_type=page&template_type=wp-page&_wpnonce=04ab722650","keywords":["Seite hinzuf\u00fcgen","post","page","template","new","create"]},"wpr-theme-builder":{"title":"WPR Theme Builder hinzuf\u00fcgen","icon":"plus-circle-o","url":"https:\/\/textile-connect.com\/wp-admin\/edit.php?action=elementor_new_post&post_type=elementor_library&template_type=wpr-theme-builder&_wpnonce=04ab722650","keywords":["WPR Theme Builder hinzuf\u00fcgen","post","page","template","new","create"]},"wpr-popups":{"title":"WPR Popup hinzuf\u00fcgen","icon":"plus-circle-o","url":"https:\/\/textile-connect.com\/wp-admin\/edit.php?action=elementor_new_post&post_type=elementor_library&template_type=wpr-popups&_wpnonce=04ab722650","keywords":["WPR Popup hinzuf\u00fcgen","post","page","template","new","create"]},"landing-page":{"title":"Landingpage hinzuf\u00fcgen","icon":"plus-circle-o","url":"https:\/\/textile-connect.com\/wp-admin\/edit.php?action=elementor_new_post&post_type=e-landing-page&template_type=landing-page&_wpnonce=04ab722650#library","keywords":["Landingpage hinzuf\u00fcgen","post","page","template","new","create"]},"popup":{"title":"Popup hinzuf\u00fcgen","icon":"plus-circle-o","url":"https:\/\/textile-connect.com\/wp-admin\/edit.php?action=elementor_new_post&post_type=elementor_library&_wpnonce=04ab722650&template_type=popup","keywords":["Popup hinzuf\u00fcgen","post","page","template","new","create"]},"header":{"title":"Kopfzeile hinzuf\u00fcgen","icon":"plus-circle-o","url":"https:\/\/textile-connect.com\/wp-admin\/edit.php?action=elementor_new_post&post_type=elementor_library&_wpnonce=04ab722650&template_type=header","keywords":["Kopfzeile hinzuf\u00fcgen","post","page","template","new","create"]},"footer":{"title":"Fu\u00dfzeile hinzuf\u00fcgen","icon":"plus-circle-o","url":"https:\/\/textile-connect.com\/wp-admin\/edit.php?action=elementor_new_post&post_type=elementor_library&_wpnonce=04ab722650&template_type=footer","keywords":["Fu\u00dfzeile hinzuf\u00fcgen","post","page","template","new","create"]},"single":{"title":"Single hinzuf\u00fcgen","icon":"plus-circle-o","url":"https:\/\/textile-connect.com\/wp-admin\/edit.php?action=elementor_new_post&post_type=elementor_library&_wpnonce=04ab722650&template_type=single","keywords":["Single hinzuf\u00fcgen","post","page","template","new","create"]},"single-post":{"title":"Single Post hinzuf\u00fcgen","icon":"plus-circle-o","url":"https:\/\/textile-connect.com\/wp-admin\/edit.php?action=elementor_new_post&post_type=elementor_library&_wpnonce=04ab722650&template_type=single-post","keywords":["Single Post hinzuf\u00fcgen","post","page","template","new","create"]},"single-page":{"title":"Single Page hinzuf\u00fcgen","icon":"plus-circle-o","url":"https:\/\/textile-connect.com\/wp-admin\/edit.php?action=elementor_new_post&post_type=elementor_library&_wpnonce=04ab722650&template_type=single-page&_elementor_template_sub_type=page","keywords":["Single Page hinzuf\u00fcgen","post","page","template","new","create"]},"archive":{"title":"Archiv hinzuf\u00fcgen","icon":"plus-circle-o","url":"https:\/\/textile-connect.com\/wp-admin\/edit.php?action=elementor_new_post&post_type=elementor_library&_wpnonce=04ab722650&template_type=archive","keywords":["Archiv hinzuf\u00fcgen","post","page","template","new","create"]},"search-results":{"title":"Suchergebnisse hinzuf\u00fcgen","icon":"plus-circle-o","url":"https:\/\/textile-connect.com\/wp-admin\/edit.php?action=elementor_new_post&post_type=elementor_library&_wpnonce=04ab722650&template_type=search-results&_elementor_template_sub_type=search","keywords":["Suchergebnisse hinzuf\u00fcgen","post","page","template","new","create"]},"error-404":{"title":"Error 404 hinzuf\u00fcgen","icon":"plus-circle-o","url":"https:\/\/textile-connect.com\/wp-admin\/edit.php?action=elementor_new_post&post_type=elementor_library&_wpnonce=04ab722650&template_type=error-404&_elementor_template_sub_type=not_found404","keywords":["Error 404 hinzuf\u00fcgen","post","page","template","new","create"]},"code_snippet":{"title":"Custom Code hinzuf\u00fcgen","icon":"plus-circle-o","url":"https:\/\/textile-connect.com\/wp-admin\/post-new.php?post_type=elementor_snippet","keywords":["Custom Code hinzuf\u00fcgen","post","page","template","new","create"]},"product-post":{"title":"Produkt Beitrag hinzuf\u00fcgen","icon":"plus-circle-o","url":"https:\/\/textile-connect.com\/wp-admin\/edit.php?action=elementor_new_post&post_type=product&template_type=wp-post&_wpnonce=04ab722650","keywords":["Produkt Beitrag hinzuf\u00fcgen","post","page","template","new","create"]},"product":{"title":"Einzelprodukt hinzuf\u00fcgen","icon":"plus-circle-o","url":"https:\/\/textile-connect.com\/wp-admin\/edit.php?action=elementor_new_post&post_type=elementor_library&_wpnonce=04ab722650&template_type=product","keywords":["Einzelprodukt hinzuf\u00fcgen","post","page","template","new","create"]},"product-archive":{"title":"Products Archive hinzuf\u00fcgen","icon":"plus-circle-o","url":"https:\/\/textile-connect.com\/wp-admin\/edit.php?action=elementor_new_post&post_type=elementor_library&_wpnonce=04ab722650&template_type=product-archive","keywords":["Products Archive hinzuf\u00fcgen","post","page","template","new","create"]},"loop-item":{"title":"Loop Item hinzuf\u00fcgen","icon":"plus-circle-o","url":"https:\/\/textile-connect.com\/wp-admin\/edit.php?action=elementor_new_post&post_type=elementor_library&_wpnonce=04ab722650&template_type=loop-item","keywords":["Loop Item hinzuf\u00fcgen","post","page","template","new","create"]},"wpr_templates":{"title":"Royal Templates hinzuf\u00fcgen","icon":"plus-circle-o","url":"https:\/\/textile-connect.com\/wp-admin\/edit.php?action=elementor_new_post&post_type=wpr_templates&_wpnonce=04ab722650","keywords":["Royal Templates hinzuf\u00fcgen","post","page","template","new","create"]},"wpr_mega_menu":{"title":"Royal Mega Menu hinzuf\u00fcgen","icon":"plus-circle-o","url":"https:\/\/textile-connect.com\/wp-admin\/edit.php?action=elementor_new_post&post_type=wpr_mega_menu&_wpnonce=04ab722650","keywords":["Royal Mega Menu hinzuf\u00fcgen","post","page","template","new","create"]},"theme-template":{"title":"Add New Theme Template","icon":"plus-circle-o","url":"https:\/\/textile-connect.com\/wp-admin\/admin.php?page=elementor-app&ver=3.14.0#\/site-editor\/add-new","keywords":["template","theme","new","create"]},"loop-template":{"title":"Add New Loop Template","icon":"plus-circle-o","url":"https:\/\/textile-connect.com\/wp-admin\/edit.php?post_type=elementor_library&tabs_group=theme&elementor_library_type=loop-item#add_new","keywords":["template","theme","new","create","loop","dynamic","listing","archive","repeater"]}},"name":"create"},"site":{"title":"Website","dynamic":false,"items":{"homepage":{"title":"Homepage","url":"https:\/\/textile-connect.com","icon":"home-heart","keywords":["home","page"]},"wordpress-dashboard":{"title":"Dashboard","icon":"dashboard","url":"https:\/\/textile-connect.com\/wp-admin\/","keywords":["dashboard","wordpress"]},"wordpress-menus":{"title":"Men\u00fcs","icon":"wordpress","url":"https:\/\/textile-connect.com\/wp-admin\/nav-menus.php","keywords":["menu","wordpress"]},"wordpress-themes":{"title":"Themes","icon":"wordpress","url":"https:\/\/textile-connect.com\/wp-admin\/themes.php","keywords":["themes","wordpress"]},"wordpress-customizer":{"title":"Customizer","icon":"wordpress","url":"https:\/\/textile-connect.com\/wp-admin\/customize.php","keywords":["customizer","wordpress"]},"wordpress-plugins":{"title":"Plugins","icon":"wordpress","url":"https:\/\/textile-connect.com\/wp-admin\/plugins.php","keywords":["plugins","wordpress"]},"wordpress-users":{"title":"Benutzer","icon":"wordpress","url":"https:\/\/textile-connect.com\/wp-admin\/users.php","keywords":["users","profile","wordpress"]}},"name":"site"},"settings":{"title":"Einstellungen","dynamic":false,"items":{"general-settings":{"title":"Allgemeine Einstellungen","url":"https:\/\/textile-connect.com\/wp-admin\/admin.php?page=elementor","keywords":["general","settings","elementor"]},"advanced":{"title":"Erweitert","url":"https:\/\/textile-connect.com\/wp-admin\/admin.php?page=elementor#tab-advanced","keywords":["advanced","settings","elementor"]},"experiments":{"title":"Experimente","url":"https:\/\/textile-connect.com\/wp-admin\/admin.php?page=elementor#tab-experiments","keywords":["settings","elementor","experiments"]},"custom-fonts":{"title":"Eigene Schriften","icon":"typography","url":"https:\/\/textile-connect.com\/wp-admin\/edit.php?post_type=elementor_font","keywords":["custom","fonts","elementor"]},"custom-icons":{"title":"Eigene Symbole","icon":"favorite","url":"https:\/\/textile-connect.com\/wp-admin\/edit.php?post_type=elementor_icons","keywords":["custom","icons","elementor"]}},"name":"settings"},"tools":{"title":"Werkzeuge","dynamic":false,"items":{"tools":{"title":"Werkzeuge","icon":"tools","url":"https:\/\/textile-connect.com\/wp-admin\/admin.php?page=elementor-tools","keywords":["tools","regenerate css","safe mode","debug bar","sync library","elementor"]},"replace-url":{"title":"URL ersetzen","icon":"tools","url":"https:\/\/textile-connect.com\/wp-admin\/admin.php?page=elementor-tools#tab-replace_url","keywords":["tools","replace url","domain","elementor"]},"maintenance-mode":{"title":"Wartungsmodus","icon":"tools","url":"https:\/\/textile-connect.com\/wp-admin\/admin.php?page=elementor-tools#tab-maintenance_mode","keywords":["tools","maintenance","coming soon","elementor"]},"import-export":{"title":"Import Export","icon":"import-export","url":"https:\/\/textile-connect.com\/wp-admin\/admin.php?page=elementor-tools#tab-import-export-kit","keywords":["tools","import export","import","export","kit"]},"version-control":{"title":"Versionskontrolle","icon":"time-line","url":"https:\/\/textile-connect.com\/wp-admin\/admin.php?page=elementor-tools#tab-versions","keywords":["tools","version","control","rollback","beta","elementor"]}},"name":"tools"}}},"connect":[],"event-tracker":{"isUserDataShared":true}};
+</script>
+<script type='text/javascript' src='https://textile-connect.com/wp-content/plugins/elementor/assets/js/common.min.js?ver=3.14.0' id='elementor-common-js'></script>
+<script type='text/javascript' id='elementor-app-loader-js-before'>
+var elementorAppConfig = {"menu_url":"https:\/\/textile-connect.com\/wp-admin\/admin.php?page=elementor-app&ver=3.14.0#\/site-editor","assets_url":"https:\/\/textile-connect.com\/wp-content\/plugins\/elementor\/assets\/","pages_url":"https:\/\/textile-connect.com\/wp-admin\/edit.php?post_type=page","return_url":"https:\/\/textile-connect.com\/wp-admin\/","hasPro":true,"admin_url":"https:\/\/textile-connect.com\/wp-admin\/","login_url":"https:\/\/textile-connect.com\/wp-login.php","base_url":"https:\/\/textile-connect.com\/wp-admin\/admin.php?page=elementor-app&ver=3.14.0","site-editor":[],"import-export":[],"kit-library":[],"onboarding":[]};
+</script>
+<script type='text/javascript' src='https://textile-connect.com/wp-content/plugins/elementor/assets/js/app-loader.min.js?ver=3.14.0' id='elementor-app-loader-js'></script>
+<script type='text/javascript' src='https://s0.wp.com/wp-content/mu-plugins/notes/notes-common-lite.min.js?ver=12.2-202328-lite' id='wpcom-notes-common-js'></script>
+<script type='text/javascript' src='https://s0.wp.com/wp-content/mu-plugins/notes/admin-bar-v2.js?ver=12.2-202328-lite' id='wpcom-notes-admin-bar-js'></script>
+<script type='text/javascript' id='ionos-performance-admin-bar-flush-js-extra'>
+/* <![CDATA[ */
+var ionos_performance_admin_bar_flush_ajax_object = {"url":"https:\/\/textile-connect.com\/wp-json\/ionos-performance\/v1\/flush","nonce":"e2a6bc7e49","flushing":"Flushing cache","flushed":"Cache flushed successfully","dashicon_success":"dashicons-yes-alt"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://textile-connect.com/wp-content/plugins/ionos-performance/vendor/ionos/performance-feature-caching/js/admin-bar-flush.js?ver=6.2.2' id='ionos-performance-admin-bar-flush-js'></script>
+<script type='text/javascript' src='https://textile-connect.com/wp-includes/js/imagesloaded.min.js?ver=4.1.4' id='imagesloaded-js'></script>
+<script type='text/javascript' src='https://textile-connect.com/wp-content/plugins/royal-elementor-addons/assets/js/lib/slick/slick.min.js?ver=1.8.1' id='wpr-slick-js'></script>
+<script type='text/javascript' src='https://textile-connect.com/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.13.2' id='elementor-pro-webpack-runtime-js'></script>
+<script type='text/javascript' src='https://textile-connect.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.14.0' id='elementor-webpack-runtime-js'></script>
+<script type='text/javascript' src='https://textile-connect.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.14.0' id='elementor-frontend-modules-js'></script>
+<script type='text/javascript' id='elementor-pro-frontend-js-before'>
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/textile-connect.com\/wp-admin\/admin-ajax.php","nonce":"56496e1aec","urls":{"assets":"https:\/\/textile-connect.com\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/textile-connect.com\/wp-json\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"woocommerce":{"menu_cart":{"cart_page_url":"https:\/\/textile-connect.com\/cart\/","checkout_page_url":"https:\/\/textile-connect.com\/checkout\/","fragments_nonce":"b2ec609348"}},"facebook_sdk":{"lang":"de_DE","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/textile-connect.com\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
+</script>
+<script type='text/javascript' src='https://textile-connect.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.13.2' id='elementor-pro-frontend-js'></script>
+<script type='text/javascript' src='https://textile-connect.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2' id='elementor-waypoints-js'></script>
+<script type='text/javascript' id='elementor-frontend-js-before'>
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Auf Facebook teilen","shareOnTwitter":"Auf Twitter teilen","pinIt":"Anheften","download":"Download","downloadImage":"Bild downloaden","fullscreen":"Vollbild","zoom":"Zoom","share":"Teilen","playVideo":"Video abspielen","previous":"Zur\u00fcck","next":"Weiter","close":"Schlie\u00dfen","a11yCarouselWrapperAriaLabel":"Carousel | Horizontal scrolling: Arrow Left & Right","a11yCarouselPrevSlideMessage":"Previous slide","a11yCarouselNextSlideMessage":"Next slide","a11yCarouselFirstSlideMessage":"This is the first slide","a11yCarouselLastSlideMessage":"This is the last slide","a11yCarouselPaginationBulletMessage":"Go to slide"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Breitbild","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.14.0","is_static":false,"experimentalFeatures":{"e_dom_optimization":true,"e_optimized_assets_loading":true,"e_optimized_css_loading":true,"a11y_improvements":true,"additional_custom_breakpoints":true,"e_swiper_latest":true,"theme_builder_v2":true,"landing-pages":true,"page-transitions":true,"notes":true,"loop":true,"form-submissions":true,"e_scroll_snap":true},"urls":{"assets":"https:\/\/textile-connect.com\/wp-content\/plugins\/elementor\/assets\/"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description","woocommerce_notices_elements":[]},"post":{"id":50,"title":"Textile%20Connect%20%E2%80%93%20Just%20another%20WordPress%20site","excerpt":"","featuredImage":false},"user":{"roles":["administrator"]}};
+</script>
+<script type='text/javascript' src='https://textile-connect.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.14.0' id='elementor-frontend-js'></script>
+<script type='text/javascript' src='https://textile-connect.com/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.13.2' id='pro-elements-handlers-js'></script>
+<script type='text/javascript' id='wpr-addons-js-js-extra'>
+/* <![CDATA[ */
+var WprConfig = {"ajaxurl":"https:\/\/textile-connect.com\/wp-admin\/admin-ajax.php","resturl":"https:\/\/textile-connect.com\/wp-json\/wpraddons\/v1","nonce":"2b1ec12d72","comparePageID":"","comparePageURL":"https:\/\/textile-connect.com\/","wishlistPageID":"","wishlistPageURL":"https:\/\/textile-connect.com\/","chooseQuantityText":"Please select the required number of items.","site_key":"","is_admin":"1","input_empty":"Please fill out this field","select_empty":"Nothing selected","file_empty":"Please upload a file","recaptcha_error":"Recaptcha Error"};
+/* ]]> */
+</script>
+<script type='text/javascript' data-cfasync="false" src='https://textile-connect.com/wp-content/plugins/royal-elementor-addons/assets/js/frontend.min.js?ver=1.3.69' id='wpr-addons-js-js'></script>
+<script type='text/javascript' src='https://textile-connect.com/wp-content/plugins/royal-elementor-addons/assets/js/modal-popups.min.js?ver=1.3.69' id='wpr-modal-popups-js-js'></script>
+<script type='text/javascript' id='elementor-admin-bar-js-before'>
+var elementorAdminBarConfig = {"elementor_edit_page":{"id":"elementor_edit_page","title":"Mit Elementor bearbeiten","href":"https:\/\/textile-connect.com\/wp-admin\/post.php?post=50&action=elementor","children":{"51":{"id":"elementor_site_settings","title":"Website-Einstellungen","sub_title":"Website","href":"https:\/\/textile-connect.com\/wp-admin\/post.php?post=50&action=elementor#e:run:panel\/global\/open","class":"elementor-site-settings","parent_class":"elementor-second-section"},"52":{"id":"elementor_app_site_editor","title":"Theme Builder","sub_title":"Website","href":"https:\/\/textile-connect.com\/wp-admin\/admin.php?page=elementor-app&ver=3.14.0#\/site-editor","class":"elementor-app-link","parent_class":"elementor-second-section"}}}};
+</script>
+<script type='text/javascript' src='https://textile-connect.com/wp-content/plugins/elementor/assets/js/elementor-admin-bar.min.js?ver=3.14.0' id='elementor-admin-bar-js'></script>
+<script type='text/javascript' src='https://textile-connect.com/wp-includes/js/hoverintent-js.min.js?ver=2.2.1' id='hoverintent-js-js'></script>
+<script type='text/javascript' src='https://textile-connect.com/wp-includes/js/admin-bar.min.js?ver=6.2.2' id='admin-bar-js'></script>
+</body>
+
+</html>
